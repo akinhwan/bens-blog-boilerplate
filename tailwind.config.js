@@ -24,7 +24,8 @@ module.exports = {
           700: '#4B4ACF',
           800: '#38379C',
           900: '#262668'
-        }
+        },
+        backgroundColor: '#000'
       },
       spacing: {
         '9/16': '56.25%',
