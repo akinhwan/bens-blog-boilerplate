@@ -1,12 +1,30 @@
-<script>
+<script type="module">
 import AppFooter from '~/components/AppFooter'
 import AppNavbar from '~/components/AppNavbar'
+// import AOS from 'aos'
+// import { focusHandling } from 'cruip-js-toolkit'
 
 export default {
+  name: 'App',
   components: {
     AppFooter,
     AppNavbar
-  }
+  },
+  // mounted() {
+  //   AOS.init({
+  //     once: true,
+  //     disable: 'phone',
+  //     duration: 600,
+  //     easing: 'ease-out-sine',
+  //   })
+  //   focusHandling()
+  //   // Route change
+  //   if (this.$router) {
+  //     this.$watch('$route', () => {
+  //       focusHandling()
+  //     });
+  //   }    
+  // }  
 }
 </script>
 

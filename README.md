@@ -1,6 +1,10 @@
-# Ben's Blog Boilerplate
+# Akinhwan.com
 
-This project was created as a way to share the infrastructure that powers my own site, [bencodezen.io](https://www.bencodezen.io). By creating this, I hope this helps other developers to spend more time focusing on their writing while still having the power to customize things on the site as they desire without having to fuss with all the features that go into a good personal site experience.
+This personal site is the home of my newsletter archive, blog posts, past work, and other miscellany.
+
+## Ben's Blog Boilerplate
+
+This project was a fork of [bencodezen.io](https://www.bencodezen.io).
 
 ## Technology Stack
 

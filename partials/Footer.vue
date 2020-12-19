@@ -1,20 +1,5 @@
-<script>
-
-export default {
-  components: {
-  },
-  computed: {
-    currentYear() {
-      const today = new Date()
-      return today.getFullYear()
-    }
-  }
-}
-</script>
-
 <template>
-  <footer class="footer">
-    <footer>
+  <footer>
     <div class="py-12 md:py-16">
       <div class="max-w-6xl mx-auto px-4 sm:px-6">
 
@@ -169,22 +154,10 @@ export default {
       </div>
     </div>
   </footer>
-    <!-- <p class="text-center">
-      © YOUR BRAND HERE {{ currentYear }}. Made with
-      <a href="https://www.nuxtjs.org">NuxtJS</a> 💚.
-    </p> -->
-  </footer>
 </template>
 
-<style lang="scss">
-@import '../styles/_settings.scss';
-
-.footer {
-  @apply text-center;
-  font-family: $ff-serif;
-  @apply text-lg;
-  @apply mt-12;
-  @apply p-8;
-  border-top: 2px solid $c-border;
+<script>
+export default {
+  name: 'Footer'
 }
-</style>
+</script>
