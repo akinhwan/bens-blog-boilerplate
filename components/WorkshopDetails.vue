@@ -51,7 +51,7 @@ export default {
   padding: 12px 14px;
   text-transform: capitalize;
   color: white !important;
-  font-family: $ff-sans;
+  // font-family: $ff-sans;
   text-transform: uppercase;
 }
 

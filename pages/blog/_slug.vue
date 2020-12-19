@@ -36,11 +36,11 @@ export default {
 
 .blog-publish-date {
   @apply mt-12;
-  font-family: $ff-sans;
+  // font-family: $ff-sans;
 }
 
 .blog-title {
-  font-family: $ff-sans;
+  // font-family: $ff-sans;
   color: $c-navy;
   @apply font-bold;
   @apply text-5xl;
@@ -56,7 +56,7 @@ export default {
 .nuxt-content {
   h2 {
     color: $c-navy;
-    font-family: $ff-sans;
+    // font-family: $ff-sans;
     @apply font-bold;
     @apply mt-5 mb-5;
     @apply pb-3;
@@ -69,7 +69,7 @@ export default {
   li {
     line-height: 1.7;
     font-size: 16px;
-    font-family: $ff-serif;
+    // font-family: $ff-serif;
 
     @include breakpoint(600px) {
       font-size: 18px;

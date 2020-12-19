@@ -71,7 +71,7 @@ $primary-color: #22aaff;
   margin-top: 0.5rem;
   margin-bottom: 0.75rem;
   @apply font-bold;
-  font-family: $ff-sans;
+  // font-family: $ff-sans;
   @apply text-2xl;
 }
 

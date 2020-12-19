@@ -107,9 +107,9 @@ export default {
 
 .navbar {
   @apply py-3 px-5;
-  border-bottom: 2px solid $c-border;
+  // border-bottom: 2px solid $c-border;
   color: $c-nav-link;
-  font-family: $ff-sans;
+  // font-family: $ff-sans;
 
   @include breakpoint($bk-navbar) {
     @apply flex justify-between items-center;

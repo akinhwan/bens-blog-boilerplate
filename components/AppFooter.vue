@@ -181,7 +181,7 @@ export default {
 
 .footer {
   @apply text-center;
-  font-family: $ff-serif;
+  // font-family: $ff-serif;
   @apply text-lg;
   @apply mt-12;
   @apply p-8;

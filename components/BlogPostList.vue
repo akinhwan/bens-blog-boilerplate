@@ -101,7 +101,7 @@ $primary-color: #22aaff;
 .blog-list-subtitle {
   @apply text-3xl;
   @apply font-bold;
-  font-family: $ff-sans;
+  // font-family: $ff-sans;
   border-bottom: 1px solid $c-border;
   @apply mb-3;
   @apply pb-1;
@@ -110,7 +110,7 @@ $primary-color: #22aaff;
 .blog-list-title {
   @apply text-4xl;
   @apply font-bold;
-  font-family: $ff-sans;
+  // font-family: $ff-sans;
   @apply mb-4;
 }
 

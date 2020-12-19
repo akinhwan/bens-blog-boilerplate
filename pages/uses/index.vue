@@ -30,7 +30,7 @@ export default {
 
   h1,
   h2 {
-    font-family: $ff-sans;
+    // font-family: $ff-sans;
     font-style: normal;
     font-weight: bold;
     font-size: 28px;
@@ -49,7 +49,7 @@ export default {
   }
 
   h3 {
-    font-family: $ff-sans;
+    // font-family: $ff-sans;
     @apply font-bold;
     @apply text-xl;
     @apply mt-3;
