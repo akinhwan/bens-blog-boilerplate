@@ -24,9 +24,9 @@ export default {
 <template>
   <main>
     <article class="content">
-      <p class="blog-publish-date">{{ formatPublishDate }}</p>
-      <h1 class="blog-title">{{ page.title }}</h1>
-      <nuxt-content :document="page" />
+      <p class="text-gray-500 blog-publish-date">{{ formatPublishDate }}</p>
+      <h1 class="text-white blog-title">{{ page.title }}</h1>
+      <nuxt-content class="text-white" :document="page" />
     </article>
   </main>
 </template>
@@ -41,7 +41,7 @@ export default {
 
 .blog-title {
   // font-family: $ff-sans;
-  color: $c-navy;
+  // color: $c-navy;
   @apply font-bold;
   @apply text-5xl;
   @apply mb-4;
@@ -54,8 +54,12 @@ export default {
 }
 
 .nuxt-content {
+  * {
+    color: #9ba9b4;
+  }
+
   h2 {
-    color: $c-navy;
+    // color: #9ba9b4;
     // font-family: $ff-sans;
     @apply font-bold;
     @apply mt-5 mb-5;
