@@ -21,4 +21,8 @@ export default {
   </div>
 </template>
 
-<style></style>
+<style lang="scss">
+@import '../../styles/_settings.scss';
+
+
+</style>

@@ -60,11 +60,11 @@ export default {
 
 <template>
   <div class="blog-list__container">
-    <div class="blog-list__header">
-      <h1 class="blog-list-title">Blog Posts</h1>
+    <div class="blog-list__header mb-6">
+      <h1 class="h1 blog-list-title">Most Recent</h1>
     </div>
 
-    <h2 class="blog-list-subtitle">Most Recent</h2>
+    <!-- <h2 class="h2 blog-list-subtitle">Most Recent</h2> -->
 
     <ul class="blog-list">
       <li
@@ -91,7 +91,7 @@ export default {
 <style lang="scss" scoped>
 @import '../styles/_settings.scss';
 
-$primary-color: #22aaff;
+$primary-color: #5d5dff;
 
 .blog-list {
   padding: 0;

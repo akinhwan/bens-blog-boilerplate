@@ -180,11 +180,9 @@ export default {
 @import '../styles/_settings.scss';
 
 .footer {
-  @apply text-center;
-  // font-family: $ff-serif;
+  // @apply text-center;
   @apply text-lg;
   @apply mt-12;
   @apply p-8;
-  border-top: 2px solid $c-border;
 }
 </style>

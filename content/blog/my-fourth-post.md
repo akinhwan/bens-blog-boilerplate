@@ -1,6 +1,6 @@
 ---
 title: My Fourth Post
-date: 2020-05-25T21:50:21
+date: '2020-05-25T21:50:21'
 excerpt: Hello from post number 4
 ---
 

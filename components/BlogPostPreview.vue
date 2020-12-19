@@ -10,37 +10,39 @@ export default {
   computed: {
     formatPublishDate() {
       const dateFormat = new Date(this.post.published)
-      const options = {
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric'
-      }
+      // const options = {
+      //   year: 'numeric',
+      //   month: 'long',
+      //   day: 'numeric'
+      // }
+      console.log(dateFormat.toLocaleDateString('en-US'))
 
-      return dateFormat.toLocaleDateString('en-US', options)
+      return dateFormat.toLocaleDateString('en-US')
     }
   }
 }
 </script>
 
 <template>
-  <section class="blog-post">
-    <time class="blog-post__time">{{ formatPublishDate }}</time>
-    <h2 class="blog-post__title">
+    <nuxt-link class="" :to="post.path">
+  <section class="blog-post mb-16">
+    <time class="text-gray-500 blog-post__time">{{ formatPublishDate }}</time>
+    <h2 class="h2 text-white blog-post__title">
       <a :href="post.path" class="blog-post__link">{{ post.title }}</a>
     </h2>
-    <p v-if="post.excerpt" class="blog-post__excerpt">{{ post.excerpt }}</p>
-    <nuxt-link class="button blog-post__button " :to="post.path">
-      Read More >
-    </nuxt-link>
+    <p v-if="post.excerpt" class="text-gray-300 blog-post__excerpt">{{ post.excerpt }}</p>
+      <!-- Read More > -->
   </section>
+    </nuxt-link>
 </template>
 
 <style lang="scss" scoped>
 @import '../styles/_settings.scss';
-$primary-color: #22aaff;
+// $primary-color: #22aaff;
+$purple-400: #A78BFA;
 
 .blog-post {
-  margin-bottom: 2.5rem;
+  // margin-bottom: 2.5rem;
 }
 
 .blog-post__button {
@@ -55,7 +57,7 @@ $primary-color: #22aaff;
 
 .blog-post__link {
   font-weight: 700;
-  color: #2c3e50;
+  // color: #2c3e50;
 
   &:hover {
     text-decoration: underline;
@@ -63,7 +65,7 @@ $primary-color: #22aaff;
 }
 
 .blog-post__time {
-  font-family: 'Poppins';
+  // font-family: 'Poppins';
   font-weight: 500;
 }
 
@@ -76,11 +78,11 @@ $primary-color: #22aaff;
 }
 
 .button {
-  font-family: 'Poppins';
+  // font-family: 'Poppins';
   font-weight: 500;
-  border: 1px solid $c-primary;
+  border: 1px solid $purple-400;
   border-radius: 4px;
-  color: $c-primary;
+  // color: $c-primary;
   font-size: 0.9rem;
   padding: 0.3rem 0.6rem;
   text-transform: uppercase;
