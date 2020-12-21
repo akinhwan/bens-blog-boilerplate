@@ -37,7 +37,7 @@ export default {
 </template>
 
 <style>
-/* @import '../styles/style.scss'; */
+/* @import '~/styles/style.scss'; */
 
 html {
   font-size: 16px;
