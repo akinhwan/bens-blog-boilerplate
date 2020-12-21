@@ -1,5 +1,8 @@
 module.exports = {
-  purge: ['public/index.html', 'src/**/*.js', 'src/**/*.vue'],
+  purge: {
+    enabled: process.env.NODE_ENV === 'production',
+    content: ['public/index.html', 'src/**/*.js', 'src/**/*.vue']
+  },
   theme: {
     extend: {
       colors: {
