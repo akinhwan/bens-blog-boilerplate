@@ -52,7 +52,8 @@ export default {
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxt/content',
     '@nuxtjs/axios',
-    '@nuxtjs/pwa'
+    '@nuxtjs/pwa',
+    '@nuxtjs/tailwindcss'
   ],
   /*
    ** Axios module configuration
