@@ -37,6 +37,8 @@ export default {
 </template>
 
 <style>
+@import '../styles/style.scss';
+
 html {
   font-size: 16px;
   word-spacing: 1px;
