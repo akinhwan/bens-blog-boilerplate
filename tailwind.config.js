@@ -3,7 +3,7 @@ module.exports = {
   //   enabled: process.env.NODE_ENV === 'production',
   //   content: ['public/index.html', 'src/**/*.js', 'src/**/*.vue']
   // },
-  purge: [],
+  purge: false,
   // Learn more on https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css
   // enabled: process.env.NODE_ENV === 'production',
   // content: [
