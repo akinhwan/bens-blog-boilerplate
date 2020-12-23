@@ -36,8 +36,7 @@ export default {
   </div>
 </template>
 
-<style>
-/* @import '~/styles/style.scss'; */
+<style lang="scss">
 @import '../styles/_settings.scss';
 
 
