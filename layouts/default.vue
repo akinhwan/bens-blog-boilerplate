@@ -38,6 +38,8 @@ export default {
 
 <style>
 /* @import '~/styles/style.scss'; */
+@import '../styles/_settings.scss';
+
 
 html {
   font-size: 16px;
