@@ -104,3 +104,6 @@ export default {
   name: 'Team'
 }
 </script>
+<style lang="">
+  
+</style>

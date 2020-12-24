@@ -26,3 +26,6 @@ export default {
   name: 'TeamImages'
 }
 </script>
+<style lang="">
+  
+</style>

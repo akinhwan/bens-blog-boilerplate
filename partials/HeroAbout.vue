@@ -27,3 +27,6 @@ export default {
   name: 'HeroAbout'
 }
 </script>
+<style lang="">
+  
+</style>

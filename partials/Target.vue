@@ -52,3 +52,6 @@ export default {
   name: 'Target'
 }
 </script>
+<style lang="">
+  
+</style>

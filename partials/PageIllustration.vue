@@ -16,3 +16,6 @@ export default {
   name: 'PageIllustration'
 }
 </script>
+<style lang="">
+  
+</style>

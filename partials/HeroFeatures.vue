@@ -35,3 +35,6 @@ export default {
   name: 'HeroFeatures'
 }
 </script>
+<style lang="">
+  
+</style>

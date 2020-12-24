@@ -139,3 +139,6 @@ export default {
   name: 'News'
 }
 </script>
+<style lang="">
+  
+</style>

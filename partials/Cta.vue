@@ -46,3 +46,6 @@ export default {
   name: 'Cta'
 }
 </script>
+<style lang="">
+  
+</style>

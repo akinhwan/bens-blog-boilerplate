@@ -97,3 +97,6 @@ export default {
   name: 'CaseStudies'
 }
 </script>
+<style lang="">
+  
+</style>

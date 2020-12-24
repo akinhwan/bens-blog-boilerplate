@@ -404,3 +404,7 @@
     name: 'BlogList'
   }
 </script>
+
+<style lang="">
+  
+</style>

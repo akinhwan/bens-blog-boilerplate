@@ -126,3 +126,6 @@ export default {
   name: 'Career'
 }
 </script>
+<style lang="">
+  
+</style>

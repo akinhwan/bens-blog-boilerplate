@@ -46,3 +46,6 @@ export default {
   name: 'Faqs'
 }
 </script>
+<style lang="">
+  
+</style>

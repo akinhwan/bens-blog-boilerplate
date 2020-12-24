@@ -85,3 +85,6 @@ export default {
   name: 'FeaturesHome'
 }
 </script>
+<style lang="">
+  
+</style>

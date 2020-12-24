@@ -58,3 +58,6 @@ export default {
   name: 'Newsletter'
 }
 </script>
+<style lang="">
+  
+</style>

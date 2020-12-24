@@ -29,3 +29,6 @@ export default {
   name: 'CtaContact'
 }
 </script>
+<style lang="">
+  
+</style>

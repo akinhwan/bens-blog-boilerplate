@@ -100,3 +100,6 @@ export default {
   name: 'FeaturesBlocks'
 }
 </script>
+<style lang="">
+  
+</style>

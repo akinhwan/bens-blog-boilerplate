@@ -253,3 +253,7 @@ export default {
   name: 'BlogSingle'
 }
 </script>
+
+<style lang="">
+  
+</style>

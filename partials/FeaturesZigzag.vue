@@ -133,3 +133,6 @@ export default {
   name: 'FeaturesZigzag'
 }
 </script>
+<style lang="">
+  
+</style>
