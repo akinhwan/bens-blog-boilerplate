@@ -38,6 +38,7 @@ export default {
 
 <style lang="scss">
 @import '../styles/_settings.scss';
+@import '../assets/css/tailwind.css';
 
 
 html {
