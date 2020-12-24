@@ -14,7 +14,7 @@ Indiehackers that are successfully generating revenue from their bootstrapped so
 
 ## How did I practice kindness to myself and others?
 
-I never consider what I do to myself, kind per se.
+I never consider what I do to myself, 'kind', per se. 
 
 
 

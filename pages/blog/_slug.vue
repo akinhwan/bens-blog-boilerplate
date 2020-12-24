@@ -7,16 +7,6 @@ export default {
     }
   },
   computed: {
-    // formatPublishDate() {
-    //   const dateFormat = new Date(this.page.date)
-    //   const options = {
-    //     year: 'numeric',
-    //     month: 'long',
-    //     day: 'numeric'
-    //   }
-
-    //   return dateFormat.toLocaleDateString('en-US', options)
-    // }
   }
 }
 </script>
@@ -36,12 +26,9 @@ export default {
 
 .blog-publish-date {
   @apply mt-12;
-  // font-family: $ff-sans;
 }
 
 .blog-title {
-  // font-family: $ff-sans;
-  // color: $c-navy;
   @apply font-bold;
   @apply text-5xl;
   @apply mb-4;
@@ -59,8 +46,6 @@ export default {
   }
 
   h2 {
-    // color: #9ba9b4;
-    // font-family: $ff-sans;
     @apply font-bold;
     @apply mt-5 mb-5;
     @apply pb-3;
@@ -73,7 +58,6 @@ export default {
   li {
     line-height: 1.7;
     font-size: 16px;
-    // font-family: $ff-serif;
 
     @include breakpoint(600px) {
       font-size: 18px;

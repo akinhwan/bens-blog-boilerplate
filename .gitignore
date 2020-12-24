@@ -90,4 +90,5 @@ sw.*
 *.swp
 
 # Blog Boilerplate
-/content/blog/1-boilerplate.md
+# /content/blog/1-boilerplate.md
+# /content/blog/moments-and-milestones.md

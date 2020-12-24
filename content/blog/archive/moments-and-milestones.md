@@ -51,7 +51,7 @@ excerpt: Looking back and surveying my path for any patterns and insights.
   
 ### July
 - Lunchclub fireside chats
-- Phatom fireworks
+- Phantom fireworks
 - Started Forest pomodoro
 - Congress Hearings on Tech CEOs
   
