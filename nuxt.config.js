@@ -52,15 +52,15 @@ export default {
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxt/content',
     '@nuxtjs/axios',
-    '@nuxtjs/pwa',
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/pwa'
+    // '@nuxtjs/tailwindcss'
   ],
-  tailwindcss: {
-    cssPath: '~/assets/css/tailwind.css',
-    configPath: 'tailwind.config.js',
-    exposeConfig: false,
-    config: {}
-  },
+  // tailwindcss: {
+  //   cssPath: '~/assets/css/tailwind.css',
+  //   configPath: 'tailwind.config.js',
+  //   exposeConfig: false,
+  //   config: {}
+  // },
   /*
    ** Axios module configuration
    ** See https://axios.nuxtjs.org/options
