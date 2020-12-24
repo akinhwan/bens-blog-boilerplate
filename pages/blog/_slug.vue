@@ -7,16 +7,16 @@ export default {
     }
   },
   computed: {
-    formatPublishDate() {
-      const dateFormat = new Date(this.page.date)
-      const options = {
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric'
-      }
+    // formatPublishDate() {
+    //   const dateFormat = new Date(this.page.date)
+    //   const options = {
+    //     year: 'numeric',
+    //     month: 'long',
+    //     day: 'numeric'
+    //   }
 
-      return dateFormat.toLocaleDateString('en-US', options)
-    }
+    //   return dateFormat.toLocaleDateString('en-US', options)
+    // }
   }
 }
 </script>
@@ -24,7 +24,7 @@ export default {
 <template>
   <main>
     <article class="content">
-      <p class="text-gray-500 blog-publish-date">{{ formatPublishDate }}</p>
+      <p class="text-gray-500 blog-publish-date">{{ page.date }}</p>
       <h1 class="text-white blog-title">{{ page.title }}</h1>
       <nuxt-content class="text-white" :document="page" />
     </article>

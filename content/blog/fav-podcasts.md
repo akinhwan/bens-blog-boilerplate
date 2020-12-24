@@ -1,6 +1,6 @@
 ---
 title: My favorite Podcasts
-date: 2020-05-22T20:47:18
+date: Dec 24, 2020
 excerpt: Here I break down the name, host(s), the podcast topic, and why I personally enjoy listening to it so much.
 ---
 

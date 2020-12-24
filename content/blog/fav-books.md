@@ -1,6 +1,6 @@
 ---
 title: My favorite Books
-date: 2020-05-22T20:47:18
+date: Dec 24, 2020
 excerpt: A listicle where I mention the title, author, and why it left an impact on me.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Moments & Milestones
-date: 2020-05-22T20:47:18
+date: Dec 24, 2020
 excerpt: Looking back and surveying my path for any patterns and insights.
 ---
 

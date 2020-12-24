@@ -1,6 +1,6 @@
 ---
 title: 2021 Annual Plan
-date: 2020-05-22T20:47:18
+date: Dec 24, 2020
 excerpt: What I learned in the past year.
 ---
 

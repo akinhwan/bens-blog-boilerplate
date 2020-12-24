@@ -8,17 +8,17 @@ export default {
     }
   },
   computed: {
-    formatPublishDate() {
-      const dateFormat = new Date(this.post.published)
-      // const options = {
-      //   year: 'numeric',
-      //   month: 'long',
-      //   day: 'numeric'
-      // }
-      console.log(dateFormat.toLocaleDateString('en-US'))
+    // formatPublishDate() {
+    //   const dateFormat = new Date(this.post.published)
+    //   // const options = {
+    //   //   year: 'numeric',
+    //   //   month: 'long',
+    //   //   day: 'numeric'
+    //   // }
+    //   console.log(dateFormat.toLocaleDateString('en-US'))
 
-      return dateFormat.toLocaleDateString('en-US')
-    }
+    //   return dateFormat.toLocaleDateString('en-US')
+    // }
   }
 }
 </script>
@@ -26,7 +26,7 @@ export default {
 <template>
     <nuxt-link class="" :to="post.path">
   <section class="blog-post mb-16">
-    <time class="text-gray-500 blog-post__time">{{ formatPublishDate }}</time>
+    <time class="text-gray-500 blog-post__time">{{ post.date }}</time>
     <h2 class="h2 text-white blog-post__title">
       <a :href="post.path" class="blog-post__link">{{ post.title }}</a>
     </h2>
