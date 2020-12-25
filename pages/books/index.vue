@@ -51,13 +51,15 @@
             </figure>
 
             <!-- Article content -->
-            <!-- <div class="text-lg text-gray-400">
-              <p class="mb-8">
+            <div class="text-lg text-gray-400">
+              <blockquote class="italic pl-4 border-l-2 border-gray-200 mb-8">
+                "The reading of all good books is like conversation with the finest minds" Rene Descartes
+                "Nothing has yet been said that's not been said before" Publius Terentius
+                
+              </blockquote>
+              <!-- <p class="mb-8">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum. Neque sodales ut etiam sit amet. <a class="text-gray-200 underline hover:no-underline" href="#0">Ligula ullamcorper</a> malesuada proin libero nunc consequat interdum varius. Quam pellentesque nec nam aliquam sem <strong class="font-medium text-gray-200">et tortor consequat</strong>. Pellentesque adipiscing commodo elit at imperdiet. Semper auctor neque vitae tempus quam pellentesque nec. Amet dictum sit amet justo donec enim diam. <strong class="font-medium text-gray-200">Varius sit amet mattis vulputate enim</strong> nulla aliquet porttitor. Odio pellentesque diam volutpat commodo sed. Elit sed vulputate mi sit amet mauris commodo quis imperdiet.
               </p>
-              <blockquote class="italic pl-4 border-l-2 border-gray-200 mb-8">
-                Greg Korshak, a journalist for the New York Times, reported that e-commerce audience will reach 380 million worldwide this year, comprising 250 dedicated fans and 215 occasional viewers. New York Times projected that the e-commerce industry would generate $905 million in revenue in 2020.
-              </blockquote>
               <p class="mb-8">
                 Pretium lectus quam id leo. Urna et pharetra pharetra massa massa. Eget sit amet tellus cras adipiscing enim eu. Neque aliquam vestibulum morbi blandit cursus risus.
               </p>
@@ -96,8 +98,8 @@
               <h3 class="h3 mb-4 text-gray-200">Conclusions</h3>
               <p class="mb-8">
                 Sapien nec sagittis aliquam malesuada orci sagittis eu volutpat odio facilisis mauris sit amet massa, consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo, purus viverra accumsan in nisl nisi scelerisque. Vel pharetra vel turpis nunc eget lorem malesuada bibendum arcu vitae elementum curabitur vitae nunc sed velit. Tempus quam pellentesque nec nam aliquam sem et tortor consequat.
-              </p>
-            </div> -->
+              </p> -->
+            </div> 
 
             <!-- Article footer -->
             <footer>
