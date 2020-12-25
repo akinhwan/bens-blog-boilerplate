@@ -161,6 +161,52 @@ export default {
   }
 };
 </script>
-<style lang="">
-  
+<style lang="scss">
+.hamburger {
+
+    svg > * {
+
+        &:nth-child(1),
+        &:nth-child(2),
+        &:nth-child(3) {
+            transform-origin: center;
+        }
+
+        &:nth-child(1) {
+            transition: y 0.1s 0.25s ease-in, transform 0.22s cubic-bezier(0.55, 0.055, 0.675, 0.19), opacity 0.1s ease-in;
+        }
+
+        &:nth-child(2) {
+            transition: transform 0.22s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+        }
+
+        &:nth-child(3) {
+            transition: y 0.1s 0.25s ease-in, transform 0.22s cubic-bezier(0.55, 0.055, 0.675, 0.19), width 0.1s 0.25s ease-in;
+        }        
+    }
+
+    &.active {
+
+        svg > * {
+
+            &:nth-child(1) {
+                opacity: 0;
+                y: 11;
+                transform: rotate(225deg);
+                transition: y 0.1s ease-out, transform 0.22s 0.12s cubic-bezier(0.215, 0.61, 0.355, 1), opacity 0.1s 0.12s ease-out;
+            }
+    
+            &:nth-child(2) {
+                transform: rotate(225deg);
+                transition: transform 0.22s 0.12s cubic-bezier(0.215, 0.61, 0.355, 1);
+            }
+    
+            &:nth-child(3) {
+                y: 11;
+                transform: rotate(135deg);
+                transition: y 0.1s ease-out, transform 0.22s 0.12s cubic-bezier(0.215, 0.61, 0.355, 1), width 0.1s ease-out;   
+            }
+        }
+    }
+}
 </style>

@@ -1,10 +1,10 @@
 ---
 title: 2020 Review & 2021 Plan
 date: Dec 24, 2020
-excerpt: What I learned in the past year.
+excerpt: Reflecting on the past year, and envisioning the next.
 ---
 
-# 2021 Annual Plan
+# Reflecting on the past year, and envisioning the next.
 
 ## Who inspires me to grow?
 
