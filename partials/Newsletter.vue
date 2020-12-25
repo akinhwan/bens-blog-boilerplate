@@ -30,7 +30,7 @@
           </div>
 
           <!-- CTA form -->
-          <form class="w-full lg:w-1/2 embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/akinhwan"
+          <!-- <form class="w-full lg:w-1/2 embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/akinhwan"
   method="post"
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/akinhwan', 'popupwindow')"
@@ -38,12 +38,93 @@
             <div class="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
               <input type="email" class="w-full appearance-none bg-purple-800 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2 text-white placeholder-purple-400" placeholder="Email Address…" aria-label="Email Address…" name="email" id="bd-email" />
               <input type="hidden" value="1" name="embed" />
-              <!-- <a class="btn text-purple-600 bg-purple-100 hover:bg-white shadow" href="#0">Subscribe</a> -->
+              <a class="btn text-purple-600 bg-purple-100 hover:bg-white shadow" href="#0">Subscribe</a>
               <input type="submit" value="Subscribe" class="btn text-purple-600 bg-white hover:bg-white shadow" />
             </div>
-            <!-- Success message -->
-            <!-- <p class="text-center lg:text-left lg:absolute mt-2 opacity-75 text-sm">Thanks for subscribing!</p> -->
-          </form>
+            <p class="text-center lg:text-left lg:absolute mt-2 opacity-75 text-sm">Thanks for subscribing!</p>
+          </form> -->
+
+          
+<link rel="stylesheet"
+      href="https://emailoctopus.com/bundles/emailoctopuslist/css/1.6/form.css"
+>
+<div class="w-full lg:w-1/2 emailoctopus-form-wrapper emailoctopus-form-default null"
+     style="font-family: Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; color: rgb(26, 26, 26);"
+>
+  <!-- <h2 class="emailoctopus-heading text-white">
+    Subscribe to my list
+  </h2> -->
+  <p class="emailoctopus-success-message">
+  </p>
+  <p class="emailoctopus-error-message">
+  </p>
+  <form action="https://emailoctopus.com/lists/625955a8-4616-11eb-a3d0-06b4694bee2a/members/embedded/1.3s/add"
+        method="post"
+        data-message-success="🎉 Welcome aboard! You've made the right choice~ 🎊"
+        data-message-missing-email-address="Your email address is required."
+        data-message-invalid-email-address="Your email address looks incorrect, please try again."
+        data-message-bot-submission-error="This doesn't look like a human submission."
+        data-message-consent-required="Please check the checkbox to indicate your consent."
+        data-message-invalid-parameters-error="This form has missing or invalid fields."
+        data-message-unknown-error="Sorry, an unknown error has occurred. Please try again later."
+        class="emailoctopus-form text-white"
+        data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6"
+  >
+    <div class="emailoctopus-form-row flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
+      <!-- <label for="field_0">
+        Email address
+      </label> -->
+      <input id="field_0"
+             name="field_0"
+             type="email"             
+             required="required"
+             class="font-sans w-full appearance-none bg-purple-800 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2 text-white placeholder-purple-400" 
+             placeholder="Email Address…"
+      >
+      <input type="hidden"
+             name="successRedirectUrl"
+      >
+      <button type="submit"
+      class="btn text-purple-600 bg-white hover:bg-purple-100 shadow font-sans font-black"
+      >
+        Subscribe
+      </button>
+    </div>
+    <div aria-hidden="true"
+         class="emailoctopus-form-row-hp"
+    >
+      <input type="text"
+             name="hpc4b27b6e-eb38-11e9-be00-06b4694bee2a"
+             tabindex="-1"
+             autocomplete="nope"
+      >
+    </div>
+    <!-- <div class="emailoctopus-form-row-subscribe"> -->
+      <!-- <input type="hidden"
+             name="successRedirectUrl"
+      >
+      <button type="submit"
+      class="btn text-purple-600 bg-white hover:bg-white shadow"
+              style="background-color: rgb(224, 224, 224); color: rgb(0, 0, 0); font-family: inherit;"
+      >
+        Subscribe
+      </button> -->
+    <!-- </div> -->
+  </form>
+  <div class="emailoctopus-rewards text-purple-400 text-xs font-sans">
+    Powered by
+    <a href="https://emailoctopus.com/?urli=BtXXf&amp;utm_medium=user_referral&amp;utm_source=builder"
+       target="_blank"
+    >
+      EmailOctopus
+    </a>
+  </div>
+</div>
+<script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js">
+</script>
+<script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js">
+</script>
+
 
         </div>
 
@@ -58,6 +139,11 @@ export default {
   name: 'Newsletter'
 }
 </script>
-<style lang="">
-  
+<style>
+  .emailoctopus-success-message {
+    color: white !important;
+  }
+  .emailoctopus-error-message {
+    color: white !important;
+  }
 </style>

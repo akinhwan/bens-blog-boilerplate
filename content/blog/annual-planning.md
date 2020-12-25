@@ -280,7 +280,7 @@ My childhood friend Jun, and adolescent besty Jiihn & Ridwan.
 Also Hyung-il Son who is probably abroad in Korea. 
 While we're at it, why not my first proper girlfriend Gina who I very sloppily dumped while long-distance.
 
-## What are the first specific steps I can take towards my goals?
+<!-- ## What are the first specific steps I can take towards my goals?
 
 
 
@@ -290,4 +290,4 @@ While we're at it, why not my first proper girlfriend Gina who I very sloppily d
 
 ## How can I create early wins and momentum?
 
-## What progress will I make in 30, 60, 90 days? How will I know?
+## What progress will I make in 30, 60, 90 days? How will I know? -->
