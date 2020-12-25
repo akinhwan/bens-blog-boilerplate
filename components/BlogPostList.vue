@@ -1,3 +1,33 @@
+<template>
+  <div class="blog-list__container">
+    <div class="blog-list__header mb-6">
+      <h1 class="h1 blog-list-title">Blog</h1>
+    </div>
+
+    <!-- <h2 class="h2 blog-list-subtitle">Most Recent</h2> -->
+
+    <ul class="blog-list">
+      <li
+        v-for="(item, index) in filteredList"
+        :key="`blog-post-${index}`"
+        class="blog-list__item"
+      >
+        <BlogPostPreview
+          v-show="index <= displayRange.end"
+          :post="item"
+          @updateSelectedTag="updateSelectedTag"
+        />
+      </li>
+    </ul>
+
+    <div v-if="displayRange.end <= filteredList.length" class="pagination">
+      <button class="button--load-more" type="button" @click="loadMore">
+        Load More
+      </button>
+    </div>
+  </div>
+</template>
+
 <script>
 import BlogPostPreview from '~/components/BlogPostPreview'
 
@@ -57,36 +87,6 @@ export default {
   }
 }
 </script>
-
-<template>
-  <div class="blog-list__container">
-    <div class="blog-list__header mb-6">
-      <h1 class="h1 blog-list-title">Most Recent</h1>
-    </div>
-
-    <!-- <h2 class="h2 blog-list-subtitle">Most Recent</h2> -->
-
-    <ul class="blog-list">
-      <li
-        v-for="(item, index) in filteredList"
-        :key="`blog-post-${index}`"
-        class="blog-list__item"
-      >
-        <BlogPostPreview
-          v-show="index <= displayRange.end"
-          :post="item"
-          @updateSelectedTag="updateSelectedTag"
-        />
-      </li>
-    </ul>
-
-    <div v-if="displayRange.end <= filteredList.length" class="pagination">
-      <button class="button--load-more" type="button" @click="loadMore">
-        Load More
-      </button>
-    </div>
-  </div>
-</template>
 
 <style lang="scss" scoped>
 @import '../styles/_settings.scss';

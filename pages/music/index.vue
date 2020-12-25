@@ -5,7 +5,7 @@
 
       <section class="relative">
         <div class="max-w-6xl mx-auto px-4 sm:px-6">
-          <div class="pt-32 pb-12 md:pt-40 md:pb-20">
+          <div class="pb-12 md:pt-40 md:pb-20">
             <div class="max-w-3xl mx-auto">
 
               <article>
@@ -151,7 +151,7 @@
 
                       Youtube Playlist
                     </h3>
-                    <iframe width="560" height="315"
+                    <iframe 
                       src="https://www.youtube.com/embed/videoseries?list=PLCBivGwxMG-MclA6saZyIrtx0nimGYt__"
                       frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                   </div>
