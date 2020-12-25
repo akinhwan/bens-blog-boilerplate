@@ -1,31 +1,3 @@
-<script>
-export default {
-  data: function () {
-    return {
-      mobileNavOpen: false
-    }
-  },
-  methods: {
-    clickOutside(e) {
-      if (!this.mobileNavOpen || this.$refs.mobileNav.contains(e.target) || this.$refs.hamburger.contains(e.target)) return
-      this.mobileNavOpen = false
-    },
-    keyPress() {
-      if (!this.mobileNavOpen || event.keyCode !== 27) return
-      this.mobileNavOpen = false
-    }    
-  },  
-  mounted() {
-    document.addEventListener('click', this.clickOutside)    
-    document.addEventListener('keydown', this.keyPress)
-  },
-  beforeDestroy() {
-    document.removeEventListener('click', this.clickOutside)
-    document.removeEventListener('keydown', this.keyPress)
-  }
-}
-</script>
-
 <template>
   <nav class="navbar">
     <!-- <header class="absolute w-full z-30"> -->
@@ -45,7 +17,6 @@ export default {
 
         <!-- Desktop navigation -->
         <nav class="hidden md:flex md:flex-grow">
-
           <!-- Desktop menu links -->
           <ul class="flex flex-grow justify-center flex-wrap items-center">
             <li>
@@ -77,7 +48,7 @@ export default {
           </button>
 
           <!-- Mobile navigation -->
-          <nav id="mobile-nav" ref="mobileNav" class="absolute top-full z-20 left-0 w-full px-4 sm:px-6 overflow-hidden transition-all duration-300 ease-in-out" :style="[ mobileNavOpen ? { maxHeight: $refs.mobileNav.scrollHeight + 'px', opacity: 1 } : { maxHeight: 0, opacity: .8 } ]">
+          <nav id="mobile-nav" ref="mobileNav" class="absolute z-20 left-0 w-full px-4 sm:px-6 overflow-hidden transition-all duration-300 ease-in-out" :style="[ mobileNavOpen ? { maxHeight: $refs.mobileNav.scrollHeight + 'px', opacity: 1 } : { maxHeight: 0, opacity: .8 } ]">
             <ul class="bg-gray-800 px-4 py-2">
               <li>
                 <router-link to="/" class="flex text-gray-300 hover:text-gray-200 py-2">Home</router-link>
@@ -101,6 +72,38 @@ export default {
   <!-- </header> -->
   </nav>
 </template>
+
+<script>
+
+export default {
+  components: {
+    // Dropdown
+  },
+  data: function () {
+    return {
+      mobileNavOpen: false
+    }
+  },
+  methods: {
+    clickOutside(e) {
+      if (!this.mobileNavOpen || this.$refs.mobileNav.contains(e.target) || this.$refs.hamburger.contains(e.target)) return
+      this.mobileNavOpen = false
+    },
+    keyPress() {
+      if (!this.mobileNavOpen || event.keyCode !== 27) return
+      this.mobileNavOpen = false
+    }    
+  },  
+  mounted() {
+    document.addEventListener('click', this.clickOutside)    
+    document.addEventListener('keydown', this.keyPress)
+  },
+  beforeDestroy() {
+    document.removeEventListener('click', this.clickOutside)
+    document.removeEventListener('keydown', this.keyPress)
+  }
+}
+</script>
 
 <style lang="scss">
 @import '../styles/_settings.scss';

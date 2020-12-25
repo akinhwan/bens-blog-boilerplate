@@ -76,30 +76,18 @@
 
 
 <script>
-  import Header from '~/partials/Header.vue'
   import TestimonialsCarousel from '~/partials/TestimonialsCarousel.vue'
   import Stats from '~/partials/Stats.vue'
-
-  // import Career from '~/partials/Career.vue'
-  // import Clients from '~/partials/Clients.vue'
   import Newsletter from '~/partials/Newsletter.vue'
   import FeaturesBlocks from '~/partials/FeaturesBlocks.vue'
-
-  import Footer from '~/partials/Footer.vue'
 
   export default {
     name: 'NewsletterPage',
     components: {
-      Header,
       Stats,
-    FeaturesBlocks,
-
-      // Team,
+      FeaturesBlocks,
       TestimonialsCarousel,
-      // Career,
-      // Clients,
-      Newsletter,
-      Footer,
+      Newsletter
     },
   };
 </script>

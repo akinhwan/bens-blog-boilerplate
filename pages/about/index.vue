@@ -36,7 +36,6 @@
 </template>
 
 <script>
-import Header from '~/partials/Header.vue'
 import PageIllustration from '~/partials/PageIllustration.vue'
 import HeroAbout from '~/partials/HeroAbout.vue'
 import Timeline from '~/partials/Timeline.vue'
@@ -46,7 +45,6 @@ import Footer from '~/partials/Footer.vue'
 export default {
   name: 'About',
   components: {
-    Header,
     PageIllustration,
     HeroAbout,
     Timeline,

@@ -113,8 +113,9 @@
   </form>
   <div class="emailoctopus-rewards text-purple-400 text-xs font-sans">
     Powered by
-    <a href="https://emailoctopus.com/?urli=BtXXf&amp;utm_medium=user_referral&amp;utm_source=builder"
+    <a href="https://emailoctopus.com/?ali=285006c3-46ad-11eb-a3d0-06b4694bee2a"
        target="_blank"
+       rel="nofollow noopener"
     >
       EmailOctopus
     </a>
