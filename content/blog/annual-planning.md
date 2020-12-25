@@ -1,5 +1,5 @@
 ---
-title: 2021 Annual Plan
+title: 2020 Review & 2021 Plan
 date: Dec 24, 2020
 excerpt: What I learned in the past year.
 ---
@@ -9,7 +9,7 @@ excerpt: What I learned in the past year.
 ## Who inspires me to grow?
 
 All of the podcast interviewees and hosts from the episodes I subscribe to.
-Indiehackers that are successfully generating revenue from their bootstrapped software, website, or content.  
+Indiehackers thatf are successfully generating revenue from their bootstrapped software, website, or content.  
   
 
 ## How did I practice kindness to myself and others?
@@ -185,16 +185,16 @@ Focus on the present, and not let the past or future dictate my mind.
 
 ## Habits
 ### Start
-- write 250 words a day
-  - gratitude
-  - journal
-  - process/update
-  - ideas/notes from what I consumed
-  - mental throwup, expression, mind dump
-- Core exercise, leg raise? Find one that works best
-- Newsletter edition every week!
-- Launch atleast 3 different ideas/websites to ProductHunt
-- Eat plant based diet more often
+* write 250 words a day
+  * gratitude
+  * journal
+  * process/update
+  * ideas/notes from what I consumed
+  * mental throwup, expression, mind dump
+* Core exercise, leg raise? Find one that works best
+* Newsletter edition every week!
+* Launch atleast 3 different ideas/websites to ProductHunt
+* Eat plant based diet more often
 
 ### Continue
 - Do 100-200 pushups a day, and max out 750
@@ -216,6 +216,7 @@ Focus on the present, and not let the past or future dictate my mind.
 
 
 ## One Word Anthem
+*I break my own rules here*
 - Process
 - Consistent
 - Motivation
@@ -243,20 +244,45 @@ Focus on the present, and not let the past or future dictate my mind.
 
 ## How will I step out of my comfort zone?
 
+I will share personal details that may not always reflect myself in the best possible light.
+I will opt to tell the truth rather than a comfortable lie.
+I will push myself to be consistent in front of an audience, whether it be live or on the internet.
+
 ## What permission do I need to give myself?
+
+You have the permission to cold email or DM any person of interest to you.
+You have the permission to get out of the damn building/house and talk to customers.
+You have the permission to be agile and changes any of the goals I've set here.
 
 ## What obstacles will I face and how will I overcome them?
 
+There will be days where I don't follow through with my intentions, and I will get down on myself because of this.
+However, I must surpass dissapointment, and show self-compassion. 
+Try to understand why I may have not delivered on what I promised.
+What was it that took my time instead?
+What is the next smallest actionable thing I can do. 
+There is no way to make it up, just learn and trudge forwads.
 
 ## Who in my life deserves more attention?
 
+My new girlfriend Sarah. I think I rightly so value my dreams above here at this stage in the relationship, but I am becoming convinced that she loves me wholeheartedly. And anyone that can pour out such love to me, deserves not only more attention but love in return. Although she is a new addition in my life, I need to understand what I'm subtracting in her stead, and be ok with that. 
+
 ## Which existing relationships do I want to focus on?
+
+My old high school small group leader Joe. My college freshman and sophmore roommates, although they live abroad.
+My friends Ben, and Austin who are getting married in the new year, who were gracious enough to invite me.
+My accountability/indiehacker buddies Seb and Ethan.
 
 ## Who do I want to reconnect with?
 
-
+I want to reconnect with Jackson and Peter, my freestyle rapping buddies from university.
+My childhood friend Jun, and adolescent besty Jiihn & Ridwan.
+Also Hyung-il Son who is probably abroad in Korea. 
+While we're at it, why not my first proper girlfriend Gina who I very sloppily dumped while long-distance.
 
 ## What are the first specific steps I can take towards my goals?
+
+
 
 ## What resources do I need to make progress?
 
@@ -264,4 +290,4 @@ Focus on the present, and not let the past or future dictate my mind.
 
 ## How can I create early wins and momentum?
 
-## WHat progress will I make in 30, 60, 90 days? How will I know?
+## What progress will I make in 30, 60, 90 days? How will I know?

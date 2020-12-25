@@ -51,6 +51,15 @@ export default {
     @apply pb-3;
     border-bottom: 1px solid $c-border;
     @apply text-4xl;
+    font-size: 2rem;
+    line-height: 1.3;
+  }
+
+  h3 {
+    @apply font-bold;
+    @apply mt-5;
+    @apply pb-3;
+    font-size: 1.5rem;
     line-height: 1.3;
   }
 
@@ -62,6 +71,11 @@ export default {
     @include breakpoint(600px) {
       font-size: 18px;
     }
+  }
+
+  li > ul > li {
+        padding-left: 2rem;
+
   }
 
   p {
