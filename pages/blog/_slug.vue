@@ -63,6 +63,15 @@ export default {
     line-height: 1.3;
   }
 
+  a {
+    color: #5d5dff;
+    // text-decoration: underline;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
   p,
   li {
     line-height: 1.7;
