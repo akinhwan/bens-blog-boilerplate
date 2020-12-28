@@ -68,7 +68,7 @@ export default {
       <h1 class="text-white blog-title">{{ page.title }}</h1>
       <nuxt-content class="text-white" :document="page" />
     </article>
-    <div class="commentbox"></div>
+    <!-- <div class="commentbox"></div> -->
   </main>
 </template>
 
