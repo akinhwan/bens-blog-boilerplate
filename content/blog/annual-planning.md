@@ -12,9 +12,9 @@ All of the podcast interviewees and hosts from the episodes I subscribe to.
 Indiehackers thatf are successfully generating revenue from their bootstrapped software, website, or content.  
   
 
-## How did I practice kindness to myself and others?
+<!-- ## How did I practice kindness to myself and others?
 
-I never consider what I do to myself, 'kind', per se. 
+I never consider what I do to myself, 'kind', per se.  -->
 
 
 
@@ -49,10 +49,10 @@ Trying to max out the number of pushups in a single day.
 
 The most difficult thing was working with teammates, and constantly mulling over my head the matter of splitting equity fairly. I teeter-tottered between paranoia, and rationality.
 
-During the design hackathon, I felt this urge to lead and take 'control' as the alpha. But when I relaxed and didn't try to win every micro-decision in my favor, it went smoother. You have to give ground on your vision, to reduce the number of forks in the road. 
+During the design hackathon, I felt this urge to lead and take 'control'. But when I relaxed and didn't try to win every micro-decision in my favor, it went smoother. You have to give ground on your vision, to reduce the number of forks in the road. 
 
 
-## How am I different?
+<!-- ## How am I different? -->
 
 
 
@@ -72,7 +72,7 @@ ___________________________
 
 I bought at the low point of the stock market. And so far I've netted $1700.
 
-I decided to do the government challenge in my free time, and we've won 75k + 275k in prize money.
+I decided to do the government challenge in my free time, and my team won 350k in prize money.
 
 
 
@@ -118,20 +118,20 @@ There was the sting of the amount of money lost, I did a quick mental calculatio
 ## Assessment
 *1 being "Not fulfilled", 10 being "Exceptional"*
 
-| Topic      | Rating | Great Success | Area for Improvement | How to change |
+| Topic      |  Great Success | Area for Improvement | How to change |
 | ----------- | ----------- | -- | -- | -- |
-| Myself      | 9       | -- | Be better for other people. Be more consistent. Follow up words with actions. Be more focused. Reduce and purge info diet. | Pause before accepting new or adding new. Care in others so that investing time in them feels unforced. Only say what you mean. Think on decisions longer, so you can commit wholeheartedly. |
-| Partner   | 8        | Found someone who really loves me. | I need to prioritize them higher. | Remain independent, while checking in on them more frequently. She should be first to know, not last. |
-| Friends   | 6        | Annual Birthday Golf outing. | Keep in touch with them.  | Send random notes of love. Remember important dates for them. Be more generous with my resources (time, money). Reciprocated or not. |
-| Parents   | 8        | Debt-free | Respect them, don't talk to them like peers. Don't raise your temper with them. Talk politely not rudely. | Be patient and understanding. Be diplomatic. Be stoic. |
-| Mental Health   | 9        | Did breathing exercises, and read plenty of books about happiness, consciousness, fear, etc. | Regularly meditate. | Be aware of consciousness. Invest time in letting time pass. |
-| Physical Health   | 8.5        | Pushup habit. Went to driving range a lot. | More core exercises. Diversify exercises. | At-home exercises, remember the form. |
-| Money   | 8.5        | Saved 5 figures of cash. | Max out IRA, know monthly burn rate, stick to budget, know % allocation across portfolio. | Track in one app. |
-| Career   | 8.5        | Went 100% remote | Find a job thats always remote. That gives equity. Better peers. Mentors available. Profit-sharing. | Prepare to search for the right company |
-| Personal Growth   | 8        | Revamping my personal site | Implement what I read in books. | Continue learning and implementing. |
-| Fun   | 6        | Going on dates, trying new restaraunts. | Travel more, more new places. | Take time off. |
-| Environment   | 7        | Room is for reading. Basement is for computer. | Quieter space. | Buy a house. |
-| Spirituality   | 5        | Read books like "the untethered soul". | Practice meditation and awareness. | Schedule time for it. |
+| Myself            | -- | Be better for other people. Be more consistent. Follow up words with actions. Be more focused. Reduce and purge info diet. | Pause before accepting new or adding new. Care in others so that investing time in them feels unforced. Only say what you mean. Think on decisions longer, so you can commit wholeheartedly. |
+| Partner          | Found someone who really loves me. | I need to prioritize them higher. | Remain independent, while checking in on them more frequently. She should be first to know, not last. |
+| Friends         | Annual Birthday Golf outing. | Keep in touch with them.  | Send random notes of love. Remember important dates for them. Be more generous with my resources (time, money). Reciprocated or not. |
+| Parents           | Debt-free | Respect them, don't talk to them like peers. Don't raise your temper with them. Talk politely not rudely. | Be patient and understanding. Be diplomatic. Be stoic. |
+| Mental Health           | Did breathing exercises, and read plenty of books about happiness, consciousness, fear, etc. | Regularly meditate. | Be aware of consciousness. Invest time in letting time pass. |
+| Physical Health           | Pushup habit. Went to driving range a lot. | More core exercises. Diversify exercises. | At-home exercises, remember the form. |
+| Money           | Saved 5 figures of cash. | Max out IRA, know monthly burn rate, stick to budget, know % allocation across portfolio. | Track in one app. |
+| Career          | Went 100% remote | Find a job thats always remote. That gives equity. Better peers. Mentors available. Profit-sharing. | Prepare to search for the right company |
+| Personal Growth         | Revamping my personal site | Implement what I read in books. | Continue learning and implementing. |
+| Fun          | Going on dates, trying new restaraunts. | Travel more, more new places. | Take time off. |
+| Environment          | Room is for reading. Basement is for computer. | Quieter space. | Buy a house. |
+| Spirituality          | Read books like "the untethered soul". | Practice meditation and awareness. | Schedule time for it. |
 
 
 
@@ -280,14 +280,18 @@ My childhood friend Jun, and adolescent besty Jiihn & Ridwan.
 Also Hyung-il Son who is probably abroad in Korea. 
 While we're at it, why not my first proper girlfriend Gina who I very sloppily dumped while long-distance.
 
-<!-- ## What are the first specific steps I can take towards my goals?
+<!-- ## What are the first specific steps I can take towards my goals? -->
 
+<!-- ## What resources do I need to make progress?
 
+I have everything I need to make progress.  -->
 
-## What resources do I need to make progress?
+## Who will I ask for help and support from?
 
-## Who will I ask for help and suppot from?
+Ben in the Vue DC Discord channel. My coworkers at MSC. My twitter followers and followees.
 
 ## How can I create early wins and momentum?
 
-## What progress will I make in 30, 60, 90 days? How will I know? -->
+Stay on track with habits. Get good sleep. Continue offloading ideas to my second brain. Purge and maintain a clean and empty slate.
+
+<!-- ## What progress will I make in 30, 60, 90 days? How will I know? -->
