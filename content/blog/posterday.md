@@ -4,6 +4,14 @@ date: December 27, 2020
 excerpt: A post mortem on an idea I had.
 ---
 
+### The short answer is because I stopped working on it.
+I stopped working on it, because there wasn't traction.
+There wasn't traction because I didn't do enough testing.
+I didn't do enough testing because I focused too much on building.
+I focused too much on building, because thats what I'm comfortable with.
+I'm more comfy with building because pushing code felt more productive.
+Although interviewing and talking with users feels fruitless, it is counter intuitively the most fruitful thing you can and must do.
+
 ## The Idea
 
 I work in a building that hosts conferences, symposia, and [Poster Sessions](https://www.wikiwand.com/en/Poster_session).
