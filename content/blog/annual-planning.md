@@ -1,6 +1,6 @@
 ---
 title: 2020 Review & 2021 Plan
-date: Dec 24, 2020
+date: 2020-12-24T20:47:18
 excerpt: Reflecting on the past year, and envisioning the next.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Why posterday.club failed
-date: December 27, 2020
+date: 2020-12-27T20:47:18
 excerpt: A post mortem on an idea I had.
 ---
 

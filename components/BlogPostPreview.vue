@@ -15,7 +15,7 @@ export default {
 <template>
     <nuxt-link class="" :to="post.path">
   <section class="blog-post mb-16">
-    <time class="text-gray-500 blog-post__time">{{ post.date }}</time>
+    <time class="text-gray-500 blog-post__time">{{ new Date(post.date).toLocaleDateString('default', { year: 'numeric', month: 'long', day: 'numeric' }) }}</time>
     <h2 class="h2 text-white blog-post__title">
       <a :href="post.path" class="blog-post__link">{{ post.title }}</a>
     </h2>

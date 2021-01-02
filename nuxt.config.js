@@ -22,13 +22,6 @@ export default {
       },
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
-    // script: [
-    //   {
-    //     hid: 'commentBox',
-    //     src: 'https://unpkg.com/commentbox.io/dist/commentBox.min.js',
-    //     defer: true
-    //   }
-    // ]
   },
   /*
    ** Customize the progress-bar color

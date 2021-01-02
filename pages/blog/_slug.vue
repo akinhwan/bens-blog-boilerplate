@@ -8,55 +8,11 @@ export default {
   },
   head() {
       return {
-        script: [
-          {
-            src:
-              'https://unpkg.com/commentbox.io/dist/commentBox.min.js'
-          }
-        ],
-        // link: [
-        //   {
-        //     rel: 'stylesheet',
-        //     href: 'https://fonts.googleapis.com/css?family=Roboto&display=swap'
-        //   }
-        // ]
+        
       }
     },
     mounted() {
-    //   commentBox('5633211778465792-proj');
-    //   commentBox('my-project-id', {
-    //     backgroundColor: '#000',
-    //     textColor: '#fff',
-    //     className: 'commentbox', // the class of divs to look for
-    //     defaultBoxId: 'commentbox', // the default ID to associate to the div
-    //     tlcParam: 'tlc', // used for identifying links to comments on your page
-    //     backgroundColor: null, // default transparent
-    //     textColor: null, // default black
-    //     subtextColor: null, // default grey
-    //     singleSignOn: null, // enables Single Sign-On (for Professional plans only)
-    //     /**
-    //      * Creates a unique URL to each box on your page.
-    //      * 
-    //      * @param {string} boxId
-    //      * @param {Location} pageLocation - a copy of the current window.location
-    //      * @returns {string}
-    //      */
-    //     createBoxUrl(boxId, pageLocation) {
 
-    //         pageLocation.search = ''; // removes query string!
-    //         pageLocation.hash = boxId; // creates link to this specific Comment Box on your page
-    //         return pageLocation.href; // return url string
-    //     },
-    //     /**
-    //      * Fires once the plugin loads its comments.
-    //      * May fire multiple times in its lifetime.
-    //      * 
-    //      * @param {number} count
-    //      */
-    //     onCommentCount(count) {
-
-    //     }
-    // });
     }
 }
 </script>
@@ -64,11 +20,10 @@ export default {
 <template>
   <main>
     <article class="content">
-      <p class="text-gray-500 blog-publish-date">{{ page.date }}</p>
+      <p class="text-gray-500 blog-publish-date">{{ new Date(page.date).toLocaleDateString('default', {year: 'numeric', month: 'long', day: 'numeric' }) }}</p>
       <h1 class="text-white blog-title">{{ page.title }}</h1>
       <nuxt-content class="text-white" :document="page" />
     </article>
-    <!-- <div class="commentbox"></div> -->
   </main>
 </template>
 
