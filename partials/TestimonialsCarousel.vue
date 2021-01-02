@@ -11,7 +11,7 @@
             <!-- Testimonials -->
             <transition-group
               tag="div"
-              class="relative flex items-start"
+              class="relative justify-center flex items-start"
               enter-active-class="transition ease-in-out duration-500 transform order-first"
               enter-class="opacity-0 scale-98"
               enter-to-class="opacity-100 scale-100"
@@ -40,17 +40,17 @@
               <template>
                 <div :key="0"
                   v-show="active === 0"
-                  class="text-center">
+                  >
                   <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Follow <a href="https://twitter.com/akinhwan?ref_src=twsrc%5Etfw">@akinhwan</a>&#39;s personal journey to full-time maker with this newsletter <a href="https://twitter.com/hashtag/startup?src=hash&amp;ref_src=twsrc%5Etfw">#startup</a> <a href="https://t.co/cktS5uy2E0">https://t.co/cktS5uy2E0</a></p>&mdash; InboxReads 💌 (@inboxreads) <a href="https://twitter.com/inboxreads/status/1345399514845343750?ref_src=twsrc%5Etfw">January 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
                 <div :key="1"
                   v-show="active === 1"
-                  class="text-center">
+                  >
                   <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">We added a fresh newsletter to our collection 💌<br>👨‍💻Full-Time Maker by <a href="https://twitter.com/akinhwan?ref_src=twsrc%5Etfw">@akinhwan</a><a href="https://t.co/8ApNsrUC8Y">https://t.co/8ApNsrUC8Y</a></p>&mdash; Thanks for Subscribing (@ForSubscribing) <a href="https://twitter.com/ForSubscribing/status/1345098527748321282?ref_src=twsrc%5Etfw">January 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
                 <div :key="2"
                   v-show="active === 2"
-                  class="text-center">
+                  >
                   <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Check out Full-Time Maker, the newest newsletter on InboxStash!<br><br>Newsletter Description: My personal journey from employee to full-time maker launching side pr<br><br>Subscribe here <a href="https://t.co/A8bqlqDP5l">https://t.co/A8bqlqDP5l</a><a href="https://twitter.com/hashtag/email?src=hash&amp;ref_src=twsrc%5Etfw">#email</a> <a href="https://twitter.com/hashtag/newsletter?src=hash&amp;ref_src=twsrc%5Etfw">#newsletter</a> <a href="https://twitter.com/akinhwan?ref_src=twsrc%5Etfw">@akinhwan</a></p>&mdash; InboxStash (@InboxStash) <a href="https://twitter.com/InboxStash/status/1345050192408670208?ref_src=twsrc%5Etfw">January 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
               </template>
@@ -82,30 +82,30 @@ export default {
     return {
       active: 0,
       autorotate: true,
-      autorotateTiming: 7000,
-      // items: [
-      //   {
-      //     img: 'tc-crop-purple.png',
-      //     alt: 'Testimonial 01',
-      //     quote: '“ I want my readers to be inspired to design their own life and make money online by scaling their talents.“',
-      //     name: 'Andrew Kim',
-      //     role: 'IndieHacker'
-      //   },
-      //   {
-      //     img: 'tc-crop-purple.png',
-      //     alt: 'Testimonial 02',
-      //     quote: '“ I want to quit working for somebody else, and build up my own dream no matter how difficult it may be.“',
-      //     name: 'Andrew Kim',
-      //     role: 'IndieHacker'
-      //   },
-      //   {
-      //     img: 'tc-crop-purple.png',
-      //     alt: 'Testimonial 03',
-      //     quote: '“ I am grateful for every single person who cares to learn from my failures, and want to connect with you. I respond to every message!“',
-      //     name: 'Andrew Kim',
-      //     role: 'IndieHacker'
-      //   }        
-      // ]
+      autorotateTiming: 5000,
+      items: [
+        {
+          img: 'tc-crop-purple.png',
+          alt: 'Testimonial 01',
+          quote: '“ I want my readers to be inspired to design their own life and make money online by scaling their talents.“',
+          name: 'Andrew Kim',
+          role: 'IndieHacker'
+        },
+        {
+          img: 'tc-crop-purple.png',
+          alt: 'Testimonial 02',
+          quote: '“ I want to quit working for somebody else, and build up my own dream no matter how difficult it may be.“',
+          name: 'Andrew Kim',
+          role: 'IndieHacker'
+        },
+        {
+          img: 'tc-crop-purple.png',
+          alt: 'Testimonial 03',
+          quote: '“ I am grateful for every single person who cares to learn from my failures, and want to connect with you. I respond to every message!“',
+          name: 'Andrew Kim',
+          role: 'IndieHacker'
+        }        
+      ]
     }
   },
   methods: {
