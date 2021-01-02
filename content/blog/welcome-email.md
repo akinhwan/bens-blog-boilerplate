@@ -73,12 +73,12 @@ Talk soon,
 Andrew ✌
 
 
-📤 Share this issue: akinhwan.com/welcome
+📤 Share this issue: https://www.akinhwan.com/blog/welcome-email
 
-🗄️ Explore past issues: akinhwan.com/blog
+🗄️ Explore past issues: https://www.akinhwan.com/blog
 
-🌈 Subscribe, its free: akinhwan.com/newsletter
+🌈 Subscribe, its free: https://www.akinhwan.com/newsletter
 
 👋 Reply to this email address: hi@akinhwan.com
 
-🕊️ Follow me on Twitter: @akinhwan
+🕊️ Follow me on Twitter: [@akinhwan](https://twitter.com/intent/user?screen_name=akinhwan)

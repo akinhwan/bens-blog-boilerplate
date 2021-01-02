@@ -23,7 +23,7 @@
               </div>
               <div class="flex flex-wrap -mx-3 mb-4">
                 <div class="w-full px-3">
-                  <label class="block text-gray-300 text-sm font-medium mb-1" for="comment">Comment</label>
+                  <label class="block text-gray-300 text-sm font-medium mb-1" for="comment">Comment<span class="text-red-600">*</span></label>
                   <textarea id="comment" rows="4" class="form-textarea w-full text-gray-300" placeholder="Write your comment"></textarea>
                 </div>
               </div>

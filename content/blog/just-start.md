@@ -59,13 +59,13 @@ Andrew
 
 👋 Reply to this email address: hi@akinhwan.com
 
-📤 Share this issue: akinhwan.com/welcome
+📤 Share this issue: https://www.akinhwan.com/blog/just-start
 
-🌈 Subscribe, its free: akinhwan.com/newsletter
+🌈 Subscribe, its free: https://www.akinhwan.com/newsletter
 
-🕊️ Follow me on Twitter: @akinhwan
+🕊️ Follow me on Twitter: [@akinhwan](https://twitter.com/intent/user?screen_name=akinhwan)
 
-🗄️ Explore past issues: akinhwan.com/blog
+🗄️ Explore past issues: https://www.akinhwan.com/blog
 
 <!-- ![5 to 9](/_nuxt/assets/5-9.png) -->
 
