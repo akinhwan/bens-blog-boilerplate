@@ -20,7 +20,7 @@
       <div class="pb-12 md:pb-20">
         <div class="max-w-3xl mx-auto text-center">
           <h1 class="h1 mb-4" data-aos="fade-up">Let's Chat! 👋</h1>
-          <a class="h3 text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">hi@akinhwan.com</a>
+          <a class="h3 text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="mailto:hi@akinhwan.com">hi@akinhwan.com</a>
           <br>
           <a href="https://twitter.com/intent/user?screen_name=akinhwan" class="h3 text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out twitter-mention-button" data-show-count="false">@Akinhwan</a>
           <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
