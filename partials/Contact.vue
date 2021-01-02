@@ -9,8 +9,8 @@
 
             <!-- Page header -->
             <div class="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-              <h1 class="h1 mb-4" data-aos="fade-up">Discussion</h1>
-              <p class="text-xl text-gray-400" data-aos="fade-up" data-aos-delay="200">Leave a comment below.</p>
+              <h1 class="h1 mb-4" data-aos="fade-up">Leave a comment</h1>
+              <p class="text-xl text-gray-400" data-aos="fade-up" data-aos-delay="200">The following fields are required.</p>
             </div>
 
             <!-- Contact form -->
@@ -29,7 +29,7 @@
               </div>
               <div class="flex flex-wrap -mx-3 mt-6">
                 <div class="w-full px-3">
-                  <button class="btn text-white bg-purple-600 hover:bg-purple-700 w-full">Send</button>
+                  <button class="btn text-white bg-purple-600 hover:bg-purple-700 w-full">Post Comment</button>
                 </div>
               </div>
             </form>

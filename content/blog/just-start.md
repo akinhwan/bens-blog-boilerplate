@@ -3,7 +3,7 @@ title: Just Start
 date: 2021-01-01T20:47:18
 excerpt: 1st Edition of Full-Time Maker
 ---
-![9 to 5](/_nuxt/assets/9-5.png)
+<!-- ![9 to 5](/_nuxt/assets/9-5.png) -->
 
 <!-- Starting a newsletter feels momentous. But maybe I shouldn't think of it this seriously.
 I realized that I should be producing and interacting with others constantly, to have any chance of providing value.
@@ -67,7 +67,7 @@ Andrew
 
 🗄️ Explore past issues: akinhwan.com/blog
 
-![5 to 9](/_nuxt/assets/5-9.png)
+<!-- ![5 to 9](/_nuxt/assets/5-9.png) -->
 
 <!-- 🔗 Link 
 

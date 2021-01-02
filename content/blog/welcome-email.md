@@ -3,7 +3,7 @@ title: Welcome Email
 date: 2020-12-31T20:47:18
 excerpt: to Full Time Maker
 ---
-![9 to 5](/_nuxt/assets/9-5.png)
+<!-- ![9 to 5](/_nuxt/assets/9-5.png) -->
 
 Hey friend,
 
@@ -85,4 +85,4 @@ Andrew ✌
 
 🕊️ Follow me on Twitter: @akinhwan
 
-![5 to 9](/_nuxt/assets/5-9.png)
+<!-- ![5 to 9](/_nuxt/assets/5-9.png) -->
