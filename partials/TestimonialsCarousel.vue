@@ -2,76 +2,8 @@
   <section>
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <div class="py-6">
-
-        <!-- Section header -->
-        <!-- <div class="max-w-3xl mx-auto text-center pb-12 md:pb-16" data-aos-id-testimonialcar>
-          <h2 class="h2 mb-4" data-aos="fade-up" data-aos-anchor="[data-aos-id-testimonialcar]">Join the Open PRO team</h2>
-          <p class="text-xl text-gray-400" data-aos="fade-up" data-aos-delay="200" data-aos-anchor="[data-aos-id-testimonialcar]">Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus in ornare.</p>
-        </div> -->
-
-        <!-- Check list -->
-        <!-- <div class="max-w-3xl mx-auto pb-16">
-          <ul class="flex flex-col sm:flex-row flex-wrap justify-center items-center text-lg text-gray-400 -mx-3 -my-2">
-            <li class="flex items-center mx-3 my-2" data-aos="fade-up" data-aos-delay="400" data-aos-anchor="[data-aos-id-testimonialcar]">
-              <svg class="w-6 h-6 mr-3 flex-shrink-0" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                <circle class="fill-current text-green-500" cx="12" cy="12" r="12" />
-                <path class="fill-current text-white" d="M16.28 8.28l-6.292 6.294-2.293-2.293a1 1 0 00-1.414 1.414l3 3a1 1 0 001.414 0l7-7A1 1 0 0016.28 8.28z" />
-              </svg>
-              <span>Work Life Balance</span>
-            </li>
-            <li class="flex items-center mx-3 my-2" data-aos="fade-up" data-aos-delay="500" data-aos-anchor="[data-aos-id-testimonialcar]">
-              <svg class="w-6 h-6 mr-3 flex-shrink-0" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                <circle class="fill-current text-green-500" cx="12" cy="12" r="12" />
-                <path class="fill-current text-white" d="M16.28 8.28l-6.292 6.294-2.293-2.293a1 1 0 00-1.414 1.414l3 3a1 1 0 001.414 0l7-7A1 1 0 0016.28 8.28z" />
-              </svg>
-              <span>Competitive Salary And Equity</span>
-            </li>
-            <li class="flex items-center mx-3 my-2" data-aos="fade-up" data-aos-delay="600" data-aos-anchor="[data-aos-id-testimonialcar]">
-              <svg class="w-6 h-6 mr-3 flex-shrink-0" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                <circle class="fill-current text-green-500" cx="12" cy="12" r="12" />
-                <path class="fill-current text-white" d="M16.28 8.28l-6.292 6.294-2.293-2.293a1 1 0 00-1.414 1.414l3 3a1 1 0 001.414 0l7-7A1 1 0 0016.28 8.28z" />
-              </svg>
-              <span>5 Weeks Paid Vacation</span>
-            </li>
-            <li class="flex items-center mx-3 my-2" data-aos="fade-up" data-aos-delay="700" data-aos-anchor="[data-aos-id-testimonialcar]">
-              <svg class="w-6 h-6 mr-3 flex-shrink-0" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                <circle class="fill-current text-green-500" cx="12" cy="12" r="12" />
-                <path class="fill-current text-white" d="M16.28 8.28l-6.292 6.294-2.293-2.293a1 1 0 00-1.414 1.414l3 3a1 1 0 001.414 0l7-7A1 1 0 0016.28 8.28z" />
-              </svg>
-              <span>Generous Gear Credit</span>
-            </li>
-            <li class="flex items-center mx-3 my-2" data-aos="fade-up" data-aos-delay="800" data-aos-anchor="[data-aos-id-testimonialcar]">
-              <svg class="w-6 h-6 mr-3 flex-shrink-0" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                <circle class="fill-current text-green-500" cx="12" cy="12" r="12" />
-                <path class="fill-current text-white" d="M16.28 8.28l-6.292 6.294-2.293-2.293a1 1 0 00-1.414 1.414l3 3a1 1 0 001.414 0l7-7A1 1 0 0016.28 8.28z" />
-              </svg>
-              <span>Diversity and Inclusion</span>
-            </li>
-          </ul>
-        </div> -->
-
         <!-- Carousel area-->
         <div class="max-w-2xl mx-auto">
-
-          <!-- World map -->
-          <!-- <div class="py-12">
-            <div class="relative"> -->
-              <!-- Map -->
-              <!-- <div class="absolute inset-0 flex justify-center items-end" aria-hidden="true">
-                <div class="bottom-0 border-l border-dashed border-gray-500 transform translate-y-8" style="height: 50%;"></div>
-              </div> -->
-              <!-- People pics -->
-              <!-- <img :src="require('~/assets/worldmap.png')" width="672" height="330" alt="World map">
-              <img class="absolute rounded-full" style="top: 22%;left: 52%;" :src="require('~/assets/world-user-01.jpg')" width="32" height="32" alt="User 01" data-aos="fade-up" />
-              <img class="absolute rounded-full" style="top: 50%;left: 58%;" :src="require('~/assets/world-user-02.jpg')" width="48" height="48" alt="User 02" data-aos="fade-up" data-aos-delay="400" />
-              <img class="absolute rounded-full" style="top: 8.5%;left: 70.5%;" :src="require('~/assets/world-user-03.jpg')" width="56" height="56" alt="User 02" data-aos="fade-up" data-aos-delay="100" />
-              <img class="absolute rounded-full" style="top: 34%;left: 76.5%;" :src="require('~/assets/world-user-04.jpg')" width="72" height="72" alt="User 04" data-aos="fade-up" data-aos-delay="700" />
-              <img class="absolute rounded-full" style="top: 29.5%;left: 8.5%;" :src="require('~/assets/world-user-05.jpg')" width="48" height="48" alt="User 05" data-aos="fade-up" data-aos-delay="500" />
-              <img class="absolute rounded-full" style="top: 56%;left: 19%;" :src="require('~/assets/world-user-06.jpg')" width="56" height="56" alt="User 06" data-aos="fade-up" data-aos-delay="200" />
-              <img class="absolute rounded-full" style="top: 20%;left: 24.5%;" :src="require('~/assets/world-user-07.jpg')" width="64" height="64" alt="User 07" data-aos="fade-up" data-aos-delay="600" />
-              <img class="absolute rounded-full" style="top: 39%;left: 43%;" :src="require('~/assets/world-user-08.jpg')" width="40" height="40" alt="User 08" data-aos="fade-up" data-aos-delay="300" />
-            </div>
-          </div> -->
 
           <!-- Carousel -->
           <div class="mt-6">
@@ -87,7 +19,7 @@
               leave-class="opacity-100 scale-100"
               leave-to-class="opacity-0 scale-98"
             >
-              <template v-for="(item, index) in items">
+              <!-- <template v-for="(item, index) in items">
                 <div
                   :key="index"
                   v-show="active === index"
@@ -103,6 +35,23 @@
                   <div class="text-gray-700 font-medium mt-3">
                     <cite class="text-gray-200 not-italic">{{item.name}}</cite> / <span class="text-purple-600">{{item.role}}</span>
                   </div>
+                </div>
+              </template> -->
+              <template>
+                <div :key="0"
+                  v-show="active === 0"
+                  class="text-center">
+                  <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Follow <a href="https://twitter.com/akinhwan?ref_src=twsrc%5Etfw">@akinhwan</a>&#39;s personal journey to full-time maker with this newsletter <a href="https://twitter.com/hashtag/startup?src=hash&amp;ref_src=twsrc%5Etfw">#startup</a> <a href="https://t.co/cktS5uy2E0">https://t.co/cktS5uy2E0</a></p>&mdash; InboxReads 💌 (@inboxreads) <a href="https://twitter.com/inboxreads/status/1345399514845343750?ref_src=twsrc%5Etfw">January 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+                <div :key="1"
+                  v-show="active === 1"
+                  class="text-center">
+                  <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">We added a fresh newsletter to our collection 💌<br>👨‍💻Full-Time Maker by <a href="https://twitter.com/akinhwan?ref_src=twsrc%5Etfw">@akinhwan</a><a href="https://t.co/8ApNsrUC8Y">https://t.co/8ApNsrUC8Y</a></p>&mdash; Thanks for Subscribing (@ForSubscribing) <a href="https://twitter.com/ForSubscribing/status/1345098527748321282?ref_src=twsrc%5Etfw">January 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+                <div :key="2"
+                  v-show="active === 2"
+                  class="text-center">
+                  <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Check out Full-Time Maker, the newest newsletter on InboxStash!<br><br>Newsletter Description: My personal journey from employee to full-time maker launching side pr<br><br>Subscribe here <a href="https://t.co/A8bqlqDP5l">https://t.co/A8bqlqDP5l</a><a href="https://twitter.com/hashtag/email?src=hash&amp;ref_src=twsrc%5Etfw">#email</a> <a href="https://twitter.com/hashtag/newsletter?src=hash&amp;ref_src=twsrc%5Etfw">#newsletter</a> <a href="https://twitter.com/akinhwan?ref_src=twsrc%5Etfw">@akinhwan</a></p>&mdash; InboxStash (@InboxStash) <a href="https://twitter.com/InboxStash/status/1345050192408670208?ref_src=twsrc%5Etfw">January 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
               </template>
             </transition-group>
@@ -134,29 +83,29 @@ export default {
       active: 0,
       autorotate: true,
       autorotateTiming: 7000,
-      items: [
-        {
-          img: 'tc-crop-purple.png',
-          alt: 'Testimonial 01',
-          quote: '“ I want my readers to be inspired to design their own life and make money online by scaling their talents.“',
-          name: 'Andrew Kim',
-          role: 'IndieHacker'
-        },
-        {
-          img: 'tc-crop-purple.png',
-          alt: 'Testimonial 02',
-          quote: '“ I want to quit working for somebody else, and build up my own dream no matter how difficult it may be.“',
-          name: 'Andrew Kim',
-          role: 'IndieHacker'
-        },
-        {
-          img: 'tc-crop-purple.png',
-          alt: 'Testimonial 03',
-          quote: '“ I am grateful for every single person who cares to learn from my failures, and want to connect with you. I respond to every message!“',
-          name: 'Andrew Kim',
-          role: 'IndieHacker'
-        }        
-      ]
+      // items: [
+      //   {
+      //     img: 'tc-crop-purple.png',
+      //     alt: 'Testimonial 01',
+      //     quote: '“ I want my readers to be inspired to design their own life and make money online by scaling their talents.“',
+      //     name: 'Andrew Kim',
+      //     role: 'IndieHacker'
+      //   },
+      //   {
+      //     img: 'tc-crop-purple.png',
+      //     alt: 'Testimonial 02',
+      //     quote: '“ I want to quit working for somebody else, and build up my own dream no matter how difficult it may be.“',
+      //     name: 'Andrew Kim',
+      //     role: 'IndieHacker'
+      //   },
+      //   {
+      //     img: 'tc-crop-purple.png',
+      //     alt: 'Testimonial 03',
+      //     quote: '“ I am grateful for every single person who cares to learn from my failures, and want to connect with you. I respond to every message!“',
+      //     name: 'Andrew Kim',
+      //     role: 'IndieHacker'
+      //   }        
+      // ]
     }
   },
   methods: {

@@ -1,3 +1,10 @@
+
+<template>
+  <div class="content">
+    <BlogPostList :list="posts" />
+  </div>
+</template>
+
 <script>
 import BlogPostList from '~/components/BlogPostList'
 
@@ -14,13 +21,6 @@ export default {
   }
 }
 </script>
-
-<template>
-  <div class="content">
-    <BlogPostList :list="posts" />
-  </div>
-</template>
-
 <style lang="scss">
 @import '../../styles/_settings.scss';
 

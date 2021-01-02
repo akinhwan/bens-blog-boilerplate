@@ -334,14 +334,12 @@
 </template>
 
 <script>
-  import PageIllustration from '~/partials/PageIllustration.vue'
   import BlogSingle from '~/partials/BlogSingle.vue'
   import Newsletter from '~/partials/Newsletter.vue'
 
   export default {
-    name: 'BlogPost',
+    name: 'Uses',
     components: {
-      PageIllustration,
       BlogSingle,
       Newsletter
     }

@@ -21,9 +21,10 @@
       <Stats />
 
       <div class="max-w-3xl mx-auto text-center">
-        <h2 class="h2 mb-4" data-aos="fade-up">Testimonials coming very soon! <br> <p  class="h4">
+        <h2 class="h2 mb-4" data-aos="fade-up">Testimonials<br> 
+        <!-- <p  class="h4">
           (just me talking to myself for now)
-          </p>
+          </p> -->
           </h2>
       </div>
       <TestimonialsCarousel />

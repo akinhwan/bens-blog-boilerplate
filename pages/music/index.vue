@@ -317,7 +317,7 @@
   import Newsletter from '~/partials/Newsletter.vue'
 
   export default {
-    name: 'BlogPost',
+    name: 'Music',
     components: {
       PageIllustration,
       BlogSingle,

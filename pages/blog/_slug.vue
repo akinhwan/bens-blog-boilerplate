@@ -1,5 +1,19 @@
+<template>
+  <main>
+    <article class="content">
+      <p class="text-gray-500 blog-publish-date">{{ new Date(page.date).toLocaleDateString('default', {year: 'numeric', month: 'long', day: 'numeric' }) }}</p>
+      <h1 class="text-white blog-title">{{ page.title }}</h1>
+      <nuxt-content class="text-white" :document="page" />
+    </article>
+    <Contact />
+  </main>
+</template>
+
 <script>
+import Contact from '~/partials/Contact'
+
 export default {
+  components: {Contact},
   async asyncData(ctx) {
     const page = await ctx.$content(`blog/${ctx.params.slug}`).fetch()
     return {
@@ -16,16 +30,6 @@ export default {
     }
 }
 </script>
-
-<template>
-  <main>
-    <article class="content">
-      <p class="text-gray-500 blog-publish-date">{{ new Date(page.date).toLocaleDateString('default', {year: 'numeric', month: 'long', day: 'numeric' }) }}</p>
-      <h1 class="text-white blog-title">{{ page.title }}</h1>
-      <nuxt-content class="text-white" :document="page" />
-    </article>
-  </main>
-</template>
 
 <style lang="scss">
 @import '../../styles/_settings.scss';

@@ -237,7 +237,7 @@ import BlogSingle from '~/partials/BlogSingle.vue'
 import Newsletter from '~/partials/Newsletter.vue'
 
 export default {
-  name: 'BlogPost',
+  name: 'Amazon',
   components: {
     PageIllustration,
     BlogSingle,
