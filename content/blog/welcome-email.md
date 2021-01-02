@@ -3,8 +3,6 @@ title: Welcome Email
 date: 2020-12-31T20:47:18
 excerpt: to Full Time Maker
 ---
-<!-- ![9 to 5](/_nuxt/assets/9-5.png) -->
-
 Hey friend,
 
 My name is Andrew Kim and I've been trying to get a side project off the ground lately.
@@ -48,11 +46,11 @@ Every Sunday evening @ 10pm in your inbox.
 
 ### My Previous Posts
 
-A post mortem on my failed idea called Posterday.club
+[A post mortem on my failed idea called Posterday.club](https://www.akinhwan.com/blog/posterday/)
 
-A list of wisdom I learned in 2020
+[A list of wisdom I learned in 2020](https://www.akinhwan.com/blog/wisdoms-learned/)
 
-My favorite podcasts recommendations
+[My favorite podcasts recommendations](https://www.akinhwan.com/podcasts/)
 
 <!-- ### Question of the week
 
@@ -84,5 +82,3 @@ Andrew ✌
 👋 Reply to this email address: hi@akinhwan.com
 
 🕊️ Follow me on Twitter: @akinhwan
-
-<!-- ![5 to 9](/_nuxt/assets/5-9.png) -->
