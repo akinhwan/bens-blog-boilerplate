@@ -50,6 +50,7 @@
   import TestimonialsCarousel from '~/partials/TestimonialsCarousel.vue'
   import Stats from '~/partials/Stats.vue'
   import NewsletterSimple from '~/partials/NewsletterSimple.vue'
+  import Newsletter from '~/partials/Newsletter.vue'
   import FeaturesBlocks from '~/partials/FeaturesBlocks.vue'
 
   export default {
@@ -58,6 +59,7 @@
       Stats,
       FeaturesBlocks,
       TestimonialsCarousel,
+      Newsletter,
       NewsletterSimple
     },
   };

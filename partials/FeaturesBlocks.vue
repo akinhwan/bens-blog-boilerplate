@@ -44,8 +44,8 @@
                 <circle class="stroke-current text-purple-100" cx="11" cy="11" r="11" />
               </g>
             </svg>
-            <h4 class="h4 mb-2">1 Link, 1 Song, 1 Picture</h4>
-            <p class="text-lg text-gray-400 text-center">I will be sharing at <b>least</b> one of each that will hopefully inspire you, or provide some insight.</p>
+            <h4 class="h4 mb-2">Curated links</h4>
+            <p class="text-lg text-gray-400 text-center">I will be recommending my favorite links worthy of your attention that hopefully inspire you, or provide some insight.</p>
           </div>
 
           <!-- 4th item -->
