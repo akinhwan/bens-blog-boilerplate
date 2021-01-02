@@ -3,9 +3,9 @@
     <article class="content">
       <p class="text-gray-500 blog-publish-date">{{ new Date(page.date).toLocaleDateString('default', {year: 'numeric', month: 'long', day: 'numeric' }) }}</p>
       <h1 class="text-white blog-title">{{ page.title }}</h1>
-    <img src="~/assets/9-5.png" alt="9 to 5">
+    <img src="~/assets/9-5.png" alt="9 to 5" v-if="page.isNewsletter">
       <nuxt-content class="text-white" :document="page" />
-    <img src="~/assets/5-9.png" alt="5 to 9">
+    <img src="~/assets/5-9.png" alt="5 to 9" v-if="page.isNewsletter">
     </article>
     <Contact />
   </main>

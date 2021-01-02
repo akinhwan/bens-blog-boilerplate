@@ -2,6 +2,7 @@
 title: Welcome Email
 date: 2020-12-31T20:47:18
 excerpt: to Full Time Maker
+isNewsletter: true
 ---
 Hey friend,
 

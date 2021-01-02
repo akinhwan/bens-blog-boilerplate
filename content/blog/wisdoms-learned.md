@@ -2,6 +2,7 @@
 title: Top Wisdoms Learned in 2020
 date: 2020-12-25T20:47:18
 excerpt: One line at a time.
+isNewsletter: false
 ---
 
 ## Aphorisms

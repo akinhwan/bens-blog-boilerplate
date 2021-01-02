@@ -2,6 +2,7 @@
 title: Why posterday.club failed
 date: 2020-12-27T20:47:18
 excerpt: A post mortem on an idea I had.
+isNewsletter: false
 ---
 
 ### The short answer is because I stopped working on it.

@@ -2,6 +2,7 @@
 title: Just Start
 date: 2021-01-01T20:47:18
 excerpt: 1st Edition of Full-Time Maker
+isNewsletter: true
 ---
 <!-- ![9 to 5](/_nuxt/assets/9-5.png) -->
 
