@@ -162,7 +162,7 @@
                 <!-- Article footer -->
                 <footer>
                   <div class="md:flex md:items-center md:justify-between text-center md:text-left">
-                    <!-- <div class="text-lg text-gray-400 italic">Originally published at <a class="text-gray-200" href="https://cruip.com/">https://cruip.com/</a>.</div> -->
+                    
                     <ul class="inline-flex mt-4 md:ml-4 md:mb-0">
                       <li>
                         <a class="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"

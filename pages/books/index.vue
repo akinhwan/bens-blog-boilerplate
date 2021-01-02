@@ -46,9 +46,43 @@
             </header>
 
             <!-- Article image -->
-            <figure class="mb-8 lg:-ml-32 lg:-mr-32" data-aos="fade-up" data-aos-delay="600">
+            <!-- <figure class="mb-8 lg:-ml-32 lg:-mr-32" data-aos="fade-up" data-aos-delay="600">
               <img class="w-full" :src="require('~/assets/mybooks.jpg')" width="1024" height="576" alt="News single" />
-            </figure>
+            </figure> -->
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/0735211299/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0735211299&linkCode=as2&tag=akinhwan07-20&linkId=9da8c5f31f43f3a02804cec0192b0263"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0735211299&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=0735211299" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/1586380192/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1586380192&linkCode=as2&tag=akinhwan07-20&linkId=0b454985b343655471d2c83acdb52e0d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1586380192&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=1586380192" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/1501197274/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1501197274&linkCode=as2&tag=akinhwan07-20&linkId=4dbd7a3f900585a135dc369b95974faf"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1501197274&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=1501197274" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/0062407805/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062407805&linkCode=as2&tag=akinhwan07-20&linkId=19acfaa8889d5454c583a12f1077c9d5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0062407805&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=0062407805" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/006124189X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006124189X&linkCode=as2&tag=akinhwan07-20&linkId=e98eb2be400279b31b0d331ef1f753a9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=006124189X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=006124189X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/0062916599/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062916599&linkCode=as2&tag=akinhwan07-20&linkId=0a838eccfe46cb105cfad213840bd4e0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0062916599&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=0062916599" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/B017MYIB16/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B017MYIB16&linkCode=as2&tag=akinhwan07-20&linkId=9d9d83aa3db4178934fef1bfe7b7a791"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B017MYIB16&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=B017MYIB16" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/0593086732/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0593086732&linkCode=as2&tag=akinhwan07-20&linkId=1337255dd2ec2ec3c13d6b50a463213f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0593086732&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=0593086732" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/0857197681/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0857197681&linkCode=as2&tag=akinhwan07-20&linkId=3ab1a76a2660a04eae2533fb4d15033c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0857197681&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=0857197681" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/1724334417/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1724334417&linkCode=as2&tag=akinhwan07-20&linkId=e9cd9b59e57f756c68d3383c0cd6d1a4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1724334417&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=1724334417" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+            <a target="_blank"  href="https://www.amazon.com/gp/product/0593328973/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0593328973&linkCode=as2&tag=akinhwan07-20&linkId=93d50cabbcb3097a94b0da5969113dd0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0593328973&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=0593328973" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/030798494X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030798494X&linkCode=as2&tag=akinhwan07-20&linkId=337b5e76630914f3ec3a34c38798b826"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=030798494X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=030798494X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/1681840480/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1681840480&linkCode=as2&tag=akinhwan07-20&linkId=5324aa0feba7f8cd16369ca17825f426"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1681840480&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=1681840480" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/0062273205/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062273205&linkCode=as2&tag=akinhwan07-20&linkId=4e846971def852fb30ba425e5d934f64"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0062273205&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=0062273205" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/194883653X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=194883653X&linkCode=as2&tag=akinhwan07-20&linkId=421bafe4f1bce6666b032b269a95d1e0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=194883653X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=194883653X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+            <a target="_blank"  href="https://www.amazon.com/gp/product/1591847788/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591847788&linkCode=as2&tag=akinhwan07-20&linkId=efd1cb8adb4594f3a85d8b2701802008"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1591847788&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=akinhwan07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=akinhwan07-20&l=am2&o=1&a=1591847788" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
             <!-- Article content -->
             <div class="text-lg text-gray-400">
@@ -104,7 +138,7 @@
             <!-- Article footer -->
             <footer>
               <div class="md:flex md:items-center md:justify-between text-center md:text-left">
-                <!-- <div class="text-lg text-gray-400 italic">Originally published at <a class="text-gray-200" href="https://cruip.com/">https://cruip.com/</a>.</div> -->
+                
                 <ul class="inline-flex mt-4 md:ml-4 md:mb-0">
                   <li>
                     <a class="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out" href="#0">
