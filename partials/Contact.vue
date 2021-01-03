@@ -10,7 +10,7 @@
             <!-- Page header -->
             <div class="max-w-3xl mx-auto text-center pb-12 md:pb-16">
               <h1 class="h1 mb-4" data-aos="fade-up">Leave a comment</h1>
-              <p class="text-xl text-gray-400" data-aos="fade-up" data-aos-delay="200">The following fields are required.</p>
+              <p class="text-xl text-gray-400" data-aos="fade-up" data-aos-delay="200">Feedback? Questions? Critiques?</p>
             </div>
 
             <!-- Contact form -->
