@@ -81,5 +81,7 @@ I collaborated successfully with a 3D illustrator in Jamaica.
 I learned more about Vuetify and Firebase.
 I jumpstarted my email list.
 
+Here are 116 sites I bookmarked in the course of my research if you're interested in going down this rabbit hole. https://www.one-tab.com/page/5ChxnLA-TIqa2zHeVM_46A
+
 If you'd like to adopt and foster this project, or have some new insight or conviction on its potential, reach out!
 Or even if you are also pursuing this idea separately, and would like to chat.
