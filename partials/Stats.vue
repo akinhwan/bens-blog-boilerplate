@@ -18,7 +18,7 @@
           </div>
           <!-- 1st item -->
           <div class="py-6 md:py-0 md:px-8">
-            <div class="text-4xl font-bold leading-tight tracking-tighter text-purple-600 mb-2" data-aos="fade-up">128 subs</div>
+            <div class="text-4xl font-bold leading-tight tracking-tighter text-purple-600 mb-2" data-aos="fade-up">166 subs</div>
             <div class="text-lg text-gray-400" data-aos="fade-up" data-aos-delay="200">Every maker has to start somewhere right?</div>
           </div>
           <!-- 2nd item -->

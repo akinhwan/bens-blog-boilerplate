@@ -1,25 +1,37 @@
+<template>
+  <main>
+    <article class="content">
+      <p class="text-gray-500 blog-publish-date">{{ new Date(page.date).toLocaleDateString('default', {year: 'numeric', month: 'long', day: 'numeric' }) }}</p>
+      <h1 class="text-white blog-title">{{ page.title }}</h1>
+    <img src="~/assets/9-5.png" alt="9 to 5" v-if="page.isNewsletter">
+      <nuxt-content class="text-white" :document="page" />
+    <img src="~/assets/5-9.png" alt="5 to 9" v-if="page.isNewsletter">
+    </article>
+    <Contact />
+  </main>
+</template>
+
 <script>
+import Contact from '~/partials/Contact'
+
 export default {
+  components: {Contact},
   async asyncData(ctx) {
     const page = await ctx.$content(`blog/${ctx.params.slug}`).fetch()
     return {
       page
     }
   },
-  computed: {
-  }
+  head() {
+      return {
+        
+      }
+    },
+    mounted() {
+
+    }
 }
 </script>
-
-<template>
-  <main>
-    <article class="content">
-      <p class="text-gray-500 blog-publish-date">{{ page.date }}</p>
-      <h1 class="text-white blog-title">{{ page.title }}</h1>
-      <nuxt-content class="text-white" :document="page" />
-    </article>
-  </main>
-</template>
 
 <style lang="scss">
 @import '../../styles/_settings.scss';
@@ -61,6 +73,15 @@ export default {
     @apply pb-3;
     font-size: 1.5rem;
     line-height: 1.3;
+  }
+
+  a {
+    color: #5d5dff;
+    // text-decoration: underline;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 
   p,

@@ -1,11 +1,4 @@
----
-title: 2020 Review & 2021 Plan
-date: 2020-12-24T20:47:18
-excerpt: Reflecting on the past year, and envisioning the next.
-isNewsletter: false
----
-
-# Reflecting on the past year, and envisioning the next.
+# Questions for reflecting on the past year, and envisioning the next.
 
 ## Who inspires me to grow?
 
