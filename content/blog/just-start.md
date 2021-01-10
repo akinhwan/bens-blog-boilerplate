@@ -17,7 +17,7 @@ I'm writing to you from my cold basement, with way too many tabs open. 2021 feel
 
 🔥 Highlights
 - I recorded a podcast episode with [Jakob Greenfeld](http://jakobgreenfeld.com/) for his [Product Ideas show](https://open.spotify.com/show/770yQOSF9mSLByAmIs3HoI?si=sgleciQPRcKxWZuD50JjDg). We got through only 5 out of 10 ideas I had prepared, but we plan on another chat soon. It's not published yet though. I follow Jakob on twitter and am very **inspired by his journey** and [approach to ideation](https://jakobgreenfeld.com/gut).
-- I had a chat with [Daniel K. Hunter](https://twitter.com/danielkhunter?lang=en), another twitter friend I was introduced to via Jakob. He's working on a newsletter called [Indie Drops](https://indiedrops.com/) you should check out if you're into early-stage **startup deals**. 
+<!-- - I had a chat with [Daniel K. Hunter](https://twitter.com/danielkhunter?lang=en), another twitter friend I was introduced to via Jakob. He's working on a newsletter called [Indie Drops](https://indiedrops.com/) you should check out if you're into early-stage **startup deals**.  -->
 - I spoke on the phone with a [YC StartupSchool ](https://www.startupschool.org/) connection, Amit, about an **interview practice platform** for Indian students. 
 I'm particularly interested in the idea because India is a burgeoning market with a talented young workforce, 
 but lacking soft skills that are expected in more western companies.
@@ -58,7 +58,7 @@ Talk soon,
 
 Andrew
 
-👋 Reply to this email address: hi@akinhwan.com
+👋 Reply to this email address: hey@akinhwan.com
 
 📤 Share this issue: https://www.akinhwan.com/blog/just-start
 
@@ -90,7 +90,7 @@ Andrew
 
 🌈 Become a subscriber: akinhwan.com/newsletter
 
-👋 Get in touch anytime: hi@akinhwan.com
+👋 Get in touch anytime: hey@akinhwan.com
 
 🕊️ Follow me on Twitter: @akinhwan -->
 

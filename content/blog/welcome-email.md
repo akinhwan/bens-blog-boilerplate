@@ -80,6 +80,6 @@ Andrew ✌
 
 🌈 Subscribe, its free: https://www.akinhwan.com/newsletter
 
-👋 Reply to this email address: hi@akinhwan.com
+👋 Reply to this email address: hey@akinhwan.com
 
 🕊️ Follow me on Twitter: [@akinhwan](https://twitter.com/intent/user?screen_name=akinhwan)
