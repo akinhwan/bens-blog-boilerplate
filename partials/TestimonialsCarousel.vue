@@ -53,6 +53,11 @@
                   >
                   <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Check out Full-Time Maker, the newest newsletter on InboxStash!<br><br>Newsletter Description: My personal journey from employee to full-time maker launching side pr<br><br>Subscribe here <a href="https://t.co/A8bqlqDP5l">https://t.co/A8bqlqDP5l</a><a href="https://twitter.com/hashtag/email?src=hash&amp;ref_src=twsrc%5Etfw">#email</a> <a href="https://twitter.com/hashtag/newsletter?src=hash&amp;ref_src=twsrc%5Etfw">#newsletter</a> <a href="https://twitter.com/akinhwan?ref_src=twsrc%5Etfw">@akinhwan</a></p>&mdash; InboxStash (@InboxStash) <a href="https://twitter.com/InboxStash/status/1345050192408670208?ref_src=twsrc%5Etfw">January 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
+                <div :key="3"
+                  v-show="active === 3"
+                  >
+                  <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">If you’re looking for a legit build in public newsletter checkout <a href="https://twitter.com/akinhwan?ref_src=twsrc%5Etfw">@akinhwan</a> newsletter, absolutely amazing!<a href="https://t.co/3KK0zWnNnx">https://t.co/3KK0zWnNnx</a></p>&mdash; Yaro Bagriy 🚀 (@yarobagriy) <a href="https://twitter.com/yarobagriy/status/1347902043743248387?ref_src=twsrc%5Etfw">January 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
               </template>
             </transition-group>
 
@@ -104,7 +109,14 @@ export default {
           quote: '“ I am grateful for every single person who cares to learn from my failures, and want to connect with you. I respond to every message!“',
           name: 'Andrew Kim',
           role: 'IndieHacker'
-        }        
+        },
+        {
+          img: 'tc-crop-purple.png',
+          alt: 'Testimonial 03',
+          quote: '“ I am grateful for every single person who cares to learn from my failures, and want to connect with you. I respond to every message!“',
+          name: 'Andrew Kim',
+          role: 'IndieHacker'
+        }         
       ]
     }
   },
