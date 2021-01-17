@@ -39,18 +39,16 @@
       </section>
 
       <!-- Related articles -->
-      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <!-- <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <div class="pb-12 md:pb-20">
         <aside class="mt-20">
           <div class="max-w-sm mx-auto md:max-w-none">
 
-            <!-- Section title -->
             <h4 class="h4 py-6 mb-10 border-t border-b border-gray-700">Recommended posts</h4>
 
-            <!-- Articles container -->
+            
             <div class="grid gap-12 md:grid-cols-3 md:col-gap-6 md:row-gap-8 items-start">
 
-              <!-- 1st article -->
               <article class="flex flex-col h-full" data-aos="fade-up">
                 <header>
                   <router-link to="/blog-post" class="block mb-6">
@@ -74,18 +72,13 @@
                 </header>
                 <p class="text-lg text-gray-400 flex-grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer class="flex items-center mt-4">
-                  <!-- <a href="#0">
-                    <img class="rounded-full flex-shrink-0 mr-4" :src="require('~/assets/tc-crop-purple.png')" width="40" height="40" alt="Author 05" />
-                  </a> -->
+                
                   <div class="font-medium">
-                    <!-- <a class="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out" href="#0">Andrew Kim</a> -->
-                    <!-- <span class="text-gray-700"> - </span> -->
                     <span class="text-gray-500">Jan 7, 2020</span>
                   </div>
                 </footer>
               </article>
 
-              <!-- 2nd article -->
               <article class="flex flex-col h-full" data-aos="fade-up" data-aos-delay="200">
                 <header>
                   <router-link to="/blog-post" class="block mb-6">
@@ -106,18 +99,13 @@
                 </header>
                 <p class="text-lg text-gray-400 flex-grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer class="flex items-center mt-4">
-                  <!-- <a href="#0">
-                    <img class="rounded-full flex-shrink-0 mr-4" :src="require('~/assets/tc-crop-purple.png')" width="40" height="40" alt="Author 03" />
-                  </a> -->
+   
                   <div class="font-medium">
-                    <!-- <a class="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out" href="#0">Andrew Kim</a>
-                    <span class="text-gray-700"> - </span> -->
                     <span class="text-gray-500">Jan 4, 2020</span>
                   </div>
                 </footer>
               </article>
 
-              <!-- 3rd article -->
               <article class="flex flex-col h-full" data-aos="fade-up" data-aos-delay="400">
                 <header>
                   <router-link to="/blog-post" class="block mb-6">
@@ -141,12 +129,9 @@
                 </header>
                 <p class="text-lg text-gray-400 flex-grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer class="flex items-center mt-4">
-                  <!-- <a href="#0">
-                    <img class="rounded-full flex-shrink-0 mr-4" :src="require('~/assets/tc-crop-purple.png')" width="40" height="40" alt="Author 06" />
-                  </a> -->
+                 
                   <div class="font-medium">
-                    <!-- <a class="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out" href="#0">Andrew Kim</a>
-                    <span class="text-gray-700"> - </span> -->
+                   
                     <span class="text-gray-500">Jan 2, 2020</span>
                   </div>
                 </footer>
@@ -157,7 +142,7 @@
           </div>
         </aside>
       </div>
-      </div>
+      </div> -->
 
       <Newsletter />
 
