@@ -48,22 +48,16 @@
 
 
       <div class="max-w-3xl mx-auto text-center">
-        <h2 class="h2 mb-4" data-aos="fade-up">Testimonials<br> 
-        <!-- <p  class="h4">
-          (just me talking to myself for now)
-          </p> -->
-          </h2>
+        <h2 class="h2 mt-8" data-aos="fade-up">Testimonials<br></h2>
       </div>
       <TestimonialsCarousel />
 
       <div class="max-w-6xl mx-auto px-4 mb-6 sm:px-6 relative">
         <div class="pt-24 pb-12 md:pb-20">
           <div class="max-w-3xl mx-auto text-center">
-            <h1 class="h3 mb-4" data-aos="fade-up"> My Pledge to Readers</h1>
+            <h1 class="h3 mb-4" data-aos="fade-up"> My pledge to readers</h1>
             <p class="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">
-              I won't sell your email address to any third parties, and I won't use it for anything other than sending
-              you
-              an email once a week. Period.
+              I won't sell your email address to any third parties. I will only use it to send you this newsletter. At the bottom of each newsletter will be a P.O. Box address, my email address, and a way to unsubscribe easily.
             </p>
           </div>
         </div>

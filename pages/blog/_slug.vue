@@ -29,15 +29,6 @@ export default {
     },
     mounted() {
       
-    var iframe = document.getElementById("myIframe");
-    console.log(iframe.contentWindow.document.body.scrollHeight);
-    console.log(iframe.style.height);
-    
-    // Adjusting the iframe height onload event
-    iframe.onload = function(){
-        // iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-    }
   }
 }
 </script>

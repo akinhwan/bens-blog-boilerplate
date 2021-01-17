@@ -128,7 +128,7 @@
                   <div class="mb-3">
                     <ul class="flex flex-wrap text-xs font-medium -m-1">
                       <li class="m-1">
-                        <a class="inline-flex text-center text-gray-100 py-1 px-3 rounded-full bg-pink-500 hover:bg-pink-600 transition duration-150 ease-in-out" href="#0">Desing</a>
+                        <a class="inline-flex text-center text-gray-100 py-1 px-3 rounded-full bg-pink-500 hover:bg-pink-600 transition duration-150 ease-in-out" href="#0">Design</a>
                       </li>
                       <li class="m-1">
                         <a class="inline-flex text-center text-gray-100 py-1 px-3 rounded-full bg-teal-500 hover:bg-teal-600 transition duration-150 ease-in-out" href="#0">Tutorials and articles</a>
