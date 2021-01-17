@@ -1,3 +1,12 @@
+
+<template>
+  <div class="flex flex-col min-h-screen">
+    <AppNavbar />
+    <nuxt class="flex-1" />
+    <AppFooter />
+  </div>
+</template>
+
 <script>
 import AppFooter from '~/components/AppFooter'
 import AppNavbar from '~/components/AppNavbar'
@@ -20,14 +29,6 @@ export default {
   // }  
 }
 </script>
-
-<template>
-  <div class="flex flex-col min-h-screen">
-    <AppNavbar />
-    <nuxt class="flex-1" />
-    <AppFooter />
-  </div>
-</template>
 
 <style lang="scss">
 @import '../styles/_settings.scss';
