@@ -30,14 +30,20 @@
             <div></div>
           <ol type="1" class='text-left mx-auto list-decimal'>
             <li class="mb-4 text-gray-400">
-              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=60273194-461b-11eb-a3d0-06b4694bee2a&pt=automation&t=1610806707&s=d2619d274e98c71a74109cf86f4dc40e662e7a28e1db23d55aa2dab0dd552879">This is how it all begins...
+              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=60273194-461b-11eb-a3d0-06b4694bee2a&pt=automation&t=1610806707&s=d2619d274e98c71a74109cf86f4dc40e662e7a28e1db23d55aa2dab0dd552879">This is how it all begins... <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg>
 </a>
             </li>
             <li class="mb-4 text-gray-400">
-              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=7a3aea83-461f-11eb-a3d0-06b4694bee2a&pt=campaign&t=1609729281&s=0f1f9876e2b6b058ed42b94dc9029e75a15f922417f464a1613bb7f60d7b657d">Just Start</a>
+              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=7a3aea83-461f-11eb-a3d0-06b4694bee2a&pt=campaign&t=1609729281&s=0f1f9876e2b6b058ed42b94dc9029e75a15f922417f464a1613bb7f60d7b657d">Just Start <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
             </li>
             <li class="mb-4 text-gray-400">
-              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=4472351f-4d06-11eb-a3d0-06b4694bee2a&pt=campaign&t=1610334153&s=ce53c492364c5e0fdf00331401191d0a7b7c49b68dc34f6ae29e3cde1fb5ee58">Keep Moving</a>
+              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=4472351f-4d06-11eb-a3d0-06b4694bee2a&pt=campaign&t=1610334153&s=ce53c492364c5e0fdf00331401191d0a7b7c49b68dc34f6ae29e3cde1fb5ee58">Keep Moving <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
             </li>
           </ol>
             <div></div>
