@@ -218,6 +218,20 @@
               <p class="mb-8">
                 Tim Ferriss is a self-experimenter and bestselling author, best known for The 4-Hour Workweek, which has been translated into 40+ languages. Newsweek calls him "the world's best human guinea pig," and The New York Times calls him "a cross between Jack Welch and a Buddhist monk." In this show, he deconstructs world-class performers from eclectic areas (investing, chess, pro sports, etc.), digging deep to find the tools, tactics, and tricks that listeners can use.
               </p>
+
+              <h4 class="h4 text-gray-200 mb-4">Product ideas
+</h4>
+              <h5 class="h5">Jakob Greenfeld
+</h5>
+              <!-- <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNrO952e8eFWXNGTVyxDtX5q9GD3d0q3WZOD_opgWrvjI7GrM" alt=""> -->
+              <iframe src="https://open.spotify.com/embed-podcast/episode/0zqsD9V7zLnMVkMjgHaD9t" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+              <p class="mb-8">
+                Here's the pitch I send out to people I want to talk to:
+
+I host a podcast inspired by the My first Million Podcast (basically just as an excuse to talk about cool product ideas). Would you be interested in joining me for an episode?
+
+The idea is that we schedule a Zoom call, both bring a list with product ideas and then discuss them for an hour or so.
+              </p>
               <!-- <h4 class="h4 text-gray-200 mb-4">ddddddddddddd</h4>
               <h5 class="h5">ssssssssssssssssssssssssss</h5>
               <img src="fffffffff" alt="">

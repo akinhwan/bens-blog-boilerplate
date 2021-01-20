@@ -45,6 +45,11 @@
                         <path d="M6 5H0v2h6v4l6-5-6-5z" />
                       </svg></a>
             </li>
+            <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=9bc07704-5919-11eb-a3d0-06b4694bee2a&pt=campaign&t=1610938939&s=03621c779771bf685aa8fa0d7559e4dde6c506890cec1fd1fde66eccd4bd6220">How Eventful <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li>
           </ol>
             <div></div>
           </div>
