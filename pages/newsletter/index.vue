@@ -50,6 +50,11 @@
                         <path d="M6 5H0v2h6v4l6-5-6-5z" />
                       </svg></a>
             </li>
+            <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=78731bf4-5d89-11eb-a3d0-06b4694bee2a&pt=campaign&t=1611543418&s=86cb4438e1d12730f195da77ae3780b076f2894cb28289445e22394ad81f164b">Launch quick, Validate quicker <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li>
           </ol>
             <div></div>
           </div>
