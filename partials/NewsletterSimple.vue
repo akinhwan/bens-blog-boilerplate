@@ -30,7 +30,7 @@
                   placeholder="Email Address…">
                 <input type="hidden" name="successRedirectUrl">
                 <button type="submit"
-                  class="btn text-purple-600 bg-white hover:bg-purple-100 shadow font-sans font-black">
+                  class="btn text-white bg-purple-600 hover:bg-purple-100 shadow font-sans font-black">
                   Subscribe
                 </button>
               </div>
