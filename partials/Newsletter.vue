@@ -42,7 +42,7 @@
             </p>
             <p class="emailoctopus-error-message">
             </p>
-            <form action="https://emailoctopus.com/lists/625955a8-4616-11eb-a3d0-06b4694bee2a/members/embedded/1.3s/add"
+            <form action="https://emailoctopus.com/lists/625955a8-4616-11eb-a3d0-06b4694bee2a/members/embedded/1.3/add"
               method="post" data-message-success="🎉 Welcome aboard! You've made the right choice~ 🎊"
               data-message-missing-email-address="Your email address is required."
               data-message-invalid-email-address="Your email address looks incorrect, please try again."
@@ -50,7 +50,7 @@
               data-message-consent-required="Please check the checkbox to indicate your consent."
               data-message-invalid-parameters-error="This form has missing or invalid fields."
               data-message-unknown-error="Sorry, an unknown error has occurred. Please try again later."
-              class="emailoctopus-form text-white" data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6">
+              class="emailoctopus-form text-white">
               <div
                 class="emailoctopus-form-row flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
                 <!-- <label for="field_0">
@@ -88,8 +88,6 @@
               </a>
             </div>
           </div>
-          <script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js">
-          </script>
           <script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js">
           </script>
 
