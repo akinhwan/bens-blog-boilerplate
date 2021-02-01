@@ -105,10 +105,14 @@ iframe { height: 100% }
     @apply mb-4;
   }
 
-  ul,
-  ol {
+  // ul,
+  ul > li {
+    list-style-type: disc;
+  }
+
+  ol > li {
     @apply list-decimal;
-    @apply list-inside;
+    // @apply list-inside;
     @apply mb-4;
   }
 }
