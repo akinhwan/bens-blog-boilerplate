@@ -27,8 +27,8 @@
           </p> -->
           </h2>
           <div class="grid grid-cols-3">
-            <div></div>
-          <ol type="1" class='text-left mx-auto list-decimal'>
+            <!-- <div></div> -->
+          <ol type="1" class='text-left mx-auto pl-8 list-decimal'>
             <li class="mb-4 text-gray-400">
               <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=60273194-461b-11eb-a3d0-06b4694bee2a&pt=automation&t=1610806707&s=d2619d274e98c71a74109cf86f4dc40e662e7a28e1db23d55aa2dab0dd552879">This is how it all begins... <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M6 5H0v2h6v4l6-5-6-5z" />
@@ -55,8 +55,13 @@
                         <path d="M6 5H0v2h6v4l6-5-6-5z" />
                       </svg></a>
             </li>
+            <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=41daa461-62a8-11eb-a3d0-06b4694bee2a&pt=campaign&t=1612148558&s=ad5cb7f1d8cc6b9bc35784a1e9bea6ff7d7b8eadb0a71ca7fc232a4ddc487b28">Dreaming is easy, it's the waking up that's hard.<svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li>
           </ol>
-            <div></div>
+            <!-- <div></div> -->
           </div>
       </div>
 
@@ -103,6 +108,18 @@
   };
 </script>
 
-<style lang="">
-  
+<style lang="scss">
+  ol {
+    width: 100vw;
+    li {
+      width: 100%;
+      // width: max-content;
+      word-wrap: break-word;
+      word-break: break-word;
+
+      &:hover {
+        color: white;
+      }
+    }
+  }
 </style>

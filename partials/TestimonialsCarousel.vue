@@ -41,23 +41,24 @@
                 <div :key="0"
                   v-show="active === 0"
                   >
-                  <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Follow <a href="https://twitter.com/akinhwan?ref_src=twsrc%5Etfw">@akinhwan</a>&#39;s personal journey to full-time maker with this newsletter <a href="https://twitter.com/hashtag/startup?src=hash&amp;ref_src=twsrc%5Etfw">#startup</a> <a href="https://t.co/cktS5uy2E0">https://t.co/cktS5uy2E0</a></p>&mdash; InboxReads 💌 (@inboxreads) <a href="https://twitter.com/inboxreads/status/1345399514845343750?ref_src=twsrc%5Etfw">January 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                  <img src="~/assets/tweet3.png" alt="">
                 </div>
                 <div :key="1"
                   v-show="active === 1"
                   >
-                  <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">We added a fresh newsletter to our collection 💌<br>👨‍💻Full-Time Maker by <a href="https://twitter.com/akinhwan?ref_src=twsrc%5Etfw">@akinhwan</a><a href="https://t.co/8ApNsrUC8Y">https://t.co/8ApNsrUC8Y</a></p>&mdash; Thanks for Subscribing (@ForSubscribing) <a href="https://twitter.com/ForSubscribing/status/1345098527748321282?ref_src=twsrc%5Etfw">January 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                </div>
+                  <img src="~/assets/tweet2.png" alt="">
+                  </div>
                 <div :key="2"
                   v-show="active === 2"
                   >
-                  <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Check out Full-Time Maker, the newest newsletter on InboxStash!<br><br>Newsletter Description: My personal journey from employee to full-time maker launching side pr<br><br>Subscribe here <a href="https://t.co/A8bqlqDP5l">https://t.co/A8bqlqDP5l</a><a href="https://twitter.com/hashtag/email?src=hash&amp;ref_src=twsrc%5Etfw">#email</a> <a href="https://twitter.com/hashtag/newsletter?src=hash&amp;ref_src=twsrc%5Etfw">#newsletter</a> <a href="https://twitter.com/akinhwan?ref_src=twsrc%5Etfw">@akinhwan</a></p>&mdash; InboxStash (@InboxStash) <a href="https://twitter.com/InboxStash/status/1345050192408670208?ref_src=twsrc%5Etfw">January 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                </div>
+                  <img src="~/assets/tweet4.png" alt="">
+                   </div>
                 <div :key="3"
                   v-show="active === 3"
                   >
-                  <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">If you’re looking for a legit build in public newsletter checkout <a href="https://twitter.com/akinhwan?ref_src=twsrc%5Etfw">@akinhwan</a> newsletter, absolutely amazing!<a href="https://t.co/3KK0zWnNnx">https://t.co/3KK0zWnNnx</a></p>&mdash; Yaro Bagriy 🚀 (@yarobagriy) <a href="https://twitter.com/yarobagriy/status/1347902043743248387?ref_src=twsrc%5Etfw">January 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                </div>
+                  <img src="~/assets/tweet1.png" alt="">
+                  
+                   </div>
               </template>
             </transition-group>
 
@@ -137,6 +138,8 @@ export default {
   }    
 }
 </script>
-<style lang="">
-  
+<style lang="scss">
+  img {
+    max-width: 30rem;
+  }
 </style>
