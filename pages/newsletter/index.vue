@@ -60,6 +60,16 @@
                         <path d="M6 5H0v2h6v4l6-5-6-5z" />
                       </svg></a>
             </li>
+            <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=ce223c61-6a6f-11eb-a3d0-06b4694bee2a&pt=campaign&t=1612833991&s=65da63f2818ae2f7e213c522f2f26d725516b3b1abda4b2513e2282453d1ac0c">Slip but don't fall.<svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li>
+            <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=c660eb73-6e3b-11eb-a3d0-06b4694bee2a&pt=campaign&t=1613358119&s=3bf89340528b45fd6c9ef7763d6725a11090cdb980683baed49bfb8af6906850">One Decision to rule them all.<svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li>
           </ol>
             <!-- <div></div> -->
           </div>
