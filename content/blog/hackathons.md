@@ -31,14 +31,12 @@ The rest of this article will assume you are at an in-person hackathon with litt
 
 ## Preparation
 
-- Get plenty of sleep (8 hours) leading up to the event. Normally these hackathons are on weekends, so try to catch some solid z's Thursday and Friday night at the very least. 
-- On the topic of sleep, do you want to go without sleep during the event? Will the venue allow you to crash on the floor or sofa with a sleeping bag? Or will you stay at a friend's place or AirBnb? Decide ahead of time and make arrangements appropriately. 
-- Read the entire description of the hackathon on their event page, then read it again. There should be an agenda, look it over and visualize yourself going through those events. Get familiar with the directions, decide if you're going to take public transport. If you're driving, do you know where you're going to park? If it's remote, will you have stable internet connection and a channel of communication with your team (Slack, Discord, Telegram, etc.)?
-- All of the above have nothing to do with hacking, but have everything to do with your mindset leading into the event. You don't want to be lost, late, or uninformed before you've even begun.
-  
-- Did you pack a laptop charger? A secondary monitor (if you like using one)? How about a mouse? Earplugs or headphones? Refillable water bottle? Take santa's well-worn advice - make a list, then check it twice. 
 - Will you be working solo? Is that allowed? Is there a minimum or maximum number of team members allowed? On this note, check other rules to make sure you are eligible. Some hackathons are for students only, others are corporate hackathons meant for employees of the company. 
+- Read the entire description of the hackathon on their event page, then read it again. There should be an agenda, look it over and visualize yourself going through those events. Get familiar with the directions, decide if you're going to take public transport. If you're driving, do you know where you're going to park? If it's remote, will you have stable internet connection and a channel of communication with your team ([Slack](https://slack.com/), [Discord](https://discord.com/), [Telegram](https://telegram.org/), etc.)?
+- Did you pack a laptop charger? A secondary monitor (if you like using one)? How about a mouse? Earplugs or headphones? Refillable water bottle? Take santa's well-worn advice - make a list, then check it twice. 
 - Generally hackathons don't allow any code or design to be begun before the official start time. However, this doesn't mean you can't research the prompts or general topics of interest. You can even start preparing and sharpening your tools. Prepare for a distraction free browser experience and block social media sites. Download any frameworks, packages, or software you will be needing (but don't go overboard because you may not end up using all this).
+- Get plenty of sleep (8 hours) leading up to the event. Normally these hackathons are on weekends, so try to catch some solid z's Thursday and Friday night at the very least. On the topic of sleep, do you want to go without sleep during the event? Will the venue allow you to crash on the floor or sofa with a sleeping bag? Or will you stay at a friend's place or [AirBnb](https://www.airbnb.com/)? Decide ahead of time and make arrangements appropriately. 
+- Some of these things seemingly have nothing to do with hacking, but have everything to do with your mindset leading into the event. You don't want to be lost, late, or uninformed before you've even begun.
   
 ## Early phase
 
@@ -70,22 +68,6 @@ Create the simplest and easiest version of your end goal, and then spend the rem
   
 ## Middle phase
 
-### Breaks
-
-- Remember to take frequent walks, stand up and stretch. Don't stay crouched over a computer all day and night. Better blood circulation leads to a happier and clearer mind. Intense focus notoriously fogs the mind, and can make it feel palpably sluggish. Take a few deep breaths through your nose, as breathing through your mouth will aggravate an anxiety response.
-- Avoid additional screen time on your smartphone, because you've probably been using a screen all day.
-- Go meet other teams. Don't bug them, just ask them how its going. Chat with people you run into on the way to the bathroom, or grabbing a snack. Don't prod about what their idea is or anything they aren't willing to divulge. This is not about scouting out the other teams, but to share in the struggle. As tempting as it may be to speculate on what the competition is doing, ignore them. Looking in your back-mirror won't help you get to where your team ultimately wants to end up.
-  
-### Help
-
-- Normally there will be mentors walking around, or seated in a special area of the event space. Be sure to take advantage of their presence. Get the most out of your question, by succinctly representing your idea, telling them what you've tried already, and by listening to everything they say before you respond.
-- Hackathons can get stressful, I recommend you leave the premises ocassionally and observe nature. Watch the squirrels and birds outside if there's still daylight, and people watch drivers-by if it's night time. Just get good at taking your mind off of things. It isn't normal to be so singularly focused for such a prolonged period. Look forward to what you'll do when this hackathon is all over.
-  
-### Converge
-
-- Be sure to occasionally check in on each other, and take stock of your progress. Shorten the feedback cycles, because you're staring at a very tight deadline. Don't over do it though, I once observed a team do stand-ups every 30 minutes and I overheard one of them complain about how time-sucking these were. Be self-aware and team-aware, only incorporate these tactics if you see a return on them in the form of either increased clarity or motivation.
-- Teams need to talk in order to get on the same page about things. But in order to implement what you talked about, you need to get quiet and put your heads down. Be on either side of this coin, but don't be in the middle. Make very deliberate and conscious choices as to whether you are converging or diverging. Working with a team can be like a game of telephone. It is a fine balance that you and your team will need to feel out. I've never pre-scheduled out this time, normally our team would converge when one of us is confused or at a road block. We would diverge once clear on the next incremental step.
-
 ### Design Thinking
 
 - Utilize sticky notes, whiteboards, rough sketches, to get anything and everything out into the air.
@@ -100,7 +82,7 @@ Create the simplest and easiest version of your end goal, and then spend the rem
 
 **Prototype**
 - The great thing about a prototype is that it's super easy to make. There is a whole spectrum from low fidelity paper and pen sketches, to ultra high-fidelity clickable prototypes that are almost indistinguishable from a fully operating application.
-- I'd recommend you check out Figma, Adobe XD, Sketch, or InVision.
+- I'd recommend you check out [Figma](https://www.figma.com), [Adobe XD](https://www.adobe.com/products/xd.html), [Sketch](https://www.sketch.com/), or [InVision](https://www.invisionapp.com/).
 
 <br/>
 
@@ -120,7 +102,20 @@ Create the simplest and easiest version of your end goal, and then spend the rem
 - If there is no off the shelf solution where you can plug and play, then you've reached the end of the road. At this point, all you can do is pave your own way forward. That's where coding languages come in. I'll spare you the definition of what a full stack application can look like, check out this article for an explanation. There is no right way to build a full stack application or website. I mean just look at all these acronyms of [software stacks on wikipedia](https://en.wikipedia.org/wiki/Solution_stack).
 - When there are separate teammates working on either the front-end or back-end there is often a risk of disconnection. Oftentimes you can fake a whole lot with just a front-end, but having a scalable and working back-end makes your demo that much more viable and impressive. Be sure to sync up between the front and back, just as waiters are constantly entering and exiting the dining room to the kitchen. 
 - There will be instances where the tools every individual is comfortable with aren't capable of tightly integration with one another. The earlier this is discovered the better. If it's discovered late in the process, then make do with what siloed elements you do have working, and tie it together with an artfully woven story.
+
+### Breaks
+
+- Remember to take frequent walks, stand up and stretch. Don't stay crouched over a computer all day and night. Better blood circulation leads to a happier and clearer mind. Intense focus notoriously fogs the mind, and can make it feel palpably sluggish. Take a few deep breaths through your nose, as breathing through your mouth will aggravate an anxiety response.
+- Avoid additional screen time on your smartphone, because you've probably been using a screen all day.
+- Go meet other teams. Don't bug them, just ask them how its going. Chat with people you run into on the way to the bathroom, or grabbing a snack. Don't prod about what their idea is or anything they aren't willing to divulge. This is not about scouting out the other teams, but to share in the struggle. As tempting as it may be to speculate on what the competition is doing, ignore them. Looking in your back-mirror won't help you get to where your team ultimately wants to end up.
+- Normally there will be mentors walking around, or seated in a special area of the event space. Be sure to take advantage of their presence. Get the most out of your question, by succinctly representing your idea, telling them what you've tried already, and by listening to everything they say before you respond.
+- Hackathons can get stressful, I recommend you leave the premises ocassionally and observe nature. Watch the squirrels and birds outside if there's still daylight, and people watch drivers-by if it's night time. Just get good at taking your mind off of things. It isn't normal to be so singularly focused for such a prolonged period. Look forward to what you'll do when this hackathon is all over.
   
+### Converge
+
+- Be sure to occasionally check in on each other, and take stock of your progress. Shorten the feedback cycles, because you're staring at a very tight deadline. Don't over do it though, I once observed a team do stand-ups every 30 minutes and I overheard one of them complain about how time-sucking these were. Be self-aware and team-aware, only incorporate these tactics if you see a return on them in the form of either increased clarity or motivation.
+- Teams need to talk in order to get on the same page about things. But in order to implement what you talked about, you need to get quiet and put your heads down. Be on either side of this coin, but don't be in the middle. Make very deliberate and conscious choices as to whether you are converging or diverging. Working with a team can be like a game of telephone. It is a fine balance that you and your team will need to feel out. I've never pre-scheduled out this time, normally our team would converge when one of us is confused or at a road block. We would diverge once clear on the next incremental step.
+
 ### Dealing with fall out
 - There may be a situation in which a member wants to leave the team or give up. On the other end of the spectrum, there could be 'mutiny' in which someone opts to take the team in a completely different direction. 
 - Whatever the case may be, try to de-escalate, have a third-party mediate. Most small disagreements can be worked out with a broad enough perspective on the matter. The good news is, if you can see this through to the other end, the bond between the team will be even stronger. Always try to see the underlying reason, and see if there can't be some sort of compromise.

@@ -1,13 +1,16 @@
 ---
 title: My path to 100 Pushups per Day
-date: 2021-02-23T20:47:18
+date: 2021-02-19T20:47:18
 excerpt: How it started, and how its going.
 ---
 
 ### Planting the seed
 When I was around 10 years old, I used to go over to my friend Hyung-Il's house.
 He was like an older brother figure, probably in high school at that time.
-Other than the great memories of playing Starcraft and Warcraft there, I remember something that put me in awe. "I do 100 pushups a day" said Hyung-il.
+Other than the great memories of playing Starcraft and Warcraft there, I remember something that put me in awe. 
+
+> "I do 100 pushups a day" said Hyung-il.
+
 I couldn't fathom 100 pushups because at that age because I couldn't even do 1 proper pushup.
 I had safely stored it away in my memory, that is until last year during the COVID pandemic.
 By this time last year I was the ripe old age of 28 and could do about 12 pushups with proper form.

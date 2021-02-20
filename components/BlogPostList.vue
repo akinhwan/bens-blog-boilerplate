@@ -45,7 +45,7 @@ export default {
   data() {
     return {
       displayRange: {
-        end: 4
+        end: 10
       },
       selectedTag: ''
     }
