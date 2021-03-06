@@ -70,6 +70,11 @@
                         <path d="M6 5H0v2h6v4l6-5-6-5z" />
                       </svg></a>
             </li>
+            <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=fe7077c2-738a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1613962911&s=0baa9fe44997aaae469d552c4418826f6b7aaff71e90024b19602db6c8177070">Give it a hundred.<svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li>
           </ol>
             <!-- <div></div> -->
           </div>
