@@ -75,6 +75,11 @@
                         <path d="M6 5H0v2h6v4l6-5-6-5z" />
                       </svg></a>
             </li>
+            <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=d49ba168-7f47-11eb-a3d0-06b4694bee2a&pt=campaign&t=1615172657&s=a3946c77b5d70f3e03cbaa00a0e393e89e471bd9cd7d5ad9f099353d69b9d345">Have 1 good day, then repeat it.<svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li>
           </ol>
             <!-- <div></div> -->
           </div>
