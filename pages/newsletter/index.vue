@@ -80,6 +80,11 @@
                         <path d="M6 5H0v2h6v4l6-5-6-5z" />
                       </svg></a>
             </li>
+            <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=29995304-8525-11eb-a3d0-06b4694bee2a&pt=campaign&t=1615773697&s=8822884a88d2e308898398ac91c58b9772e29df1e94f4f295f9b59e0d319a9c5">Meditate to train your mind.<svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li>
           </ol>
             <!-- <div></div> -->
           </div>

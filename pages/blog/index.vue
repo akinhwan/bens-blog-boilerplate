@@ -10,6 +10,7 @@ import BlogPostList from '~/components/BlogPostList'
 
 export default {
   components: {
+    
     BlogPostList
   },
   async asyncData({ $content }) {
