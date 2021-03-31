@@ -190,7 +190,7 @@
               <!-- 3rd article -->
               <article class="flex flex-col h-full" data-aos="fade-up" data-aos-delay="400">
                 <header>
-                  <router-link to="/blog/annual-planning" class="block mb-6">
+                  <router-link to="/blog/2020" class="block mb-6">
                     <figure class="relative h-0 pb-9/16 overflow-hidden rounded-sm">
                       <img class="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out" :src="require('~/assets/calendar.jpg')" width="352" height="198" alt="Calendar" />
                     </figure>
@@ -206,7 +206,7 @@
                     </ul>
                   </div>
                   <h3 class="h4 mb-2">
-                    <router-link to="/blog/annual-planning" class="hover:text-gray-100 transition duration-150 ease-in-out">2020 Review & 2021 Plan</router-link>
+                    <router-link to="/blog/2020" class="hover:text-gray-100 transition duration-150 ease-in-out">2020 Review & 2021 Plan</router-link>
                   </h3>
                 </header>
                 <p class="text-lg text-gray-400 flex-grow">Reflecting on the past year, and envisioning the next.</p>
