@@ -93,10 +93,144 @@
             </li>
             <!-- 13 -->
             <li class="mb-4 text-gray-400">
-              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=af97604a-901f-11eb-a3d0-06b4694bee2a&pt=campaign&t=1616978985&s=76a1b156004868ec2ca34531c441a6a152f6d9c6bc46fcd31d3fe5081ebc544c">Consistency > Intensity<svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+              <a class="text-xl hover:underline " href="https://eomail6.com/preview?p=af97604a-901f-11eb-a3d0-06b4694bee2a&pt=campaign&t=1616978985&s=76a1b156004868ec2ca34531c441a6a152f6d9c6bc46fcd31d3fe5081ebc544c">Consistency > Intensity
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M6 5H0v2h6v4l6-5-6-5z" />
                       </svg></a>
             </li>
+            <!-- 14 -->
+            <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=7b6140b5-95ac-11eb-a3d0-06b4694bee2a&pt=campaign&t=1617588211&s=f84ea514d2ee6b0604f2069f8389691186cdda6212ecc936ef2a5a794f31ab70">Château Plateau
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li>
+            <!-- 15 -->
+            <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=9f592d0b-9b2f-11eb-a3d0-06b4694bee2a&pt=campaign&t=1618193635&s=7f5564d5a2bf3d726c9f559b46acc2cee112bac4c7c76ed0302f1d3186bf8b91">Information Billionaire
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li>
+            <!-- 16 -->
+            <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=7f4b65a0-a04b-11eb-a3d0-06b4694bee2a&pt=campaign&t=1618797658&s=1828a5a41cfd0fcd29cf3719449bb58d24e83ac523172d8ac5a57786448a1010">What you resist tends to persist
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li>
+            <!-- 17 -->
+            <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=dd41b071-a637-11eb-a3d0-06b4694bee2a&pt=campaign&t=1619406917&s=6ace69bea2f96899a381b820bec1bd0691bbf348201bd978f4c30a0495908cf8">Get what you deserve
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li>
+            <!-- 18 -->
+            <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li>
+            <!-- 19 -->
+            <!-- <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li> -->
+            <!-- 19 -->
+            <!-- <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li> -->
+            <!-- 19 -->
+            <!-- <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li> -->
+            <!-- 19 -->
+            <!-- <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li> -->
+            <!-- 19 -->
+            <!-- <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li> -->
+            <!-- 19 -->
+            <!-- <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li> -->
+            <!-- 19 -->
+            <!-- <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li> -->
+            <!-- 19 -->
+            <!-- <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li> -->
+            <!-- 19 -->
+            <!-- <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li> -->
+            <!-- 19 -->
+            <!-- <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li> -->
+            <!-- 19 -->
+            <!-- <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li> -->
+            <!-- 19 -->
+            <!-- <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li> -->
+            <!-- 19 -->
+            <!-- <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li> -->
+            <!-- 19 -->
+            <!-- <li class="mb-4 text-gray-400">
+              <a class="text-xl hover:underline " href="https://eomail6.com/web-version?p=4b18fc38-b64a-11eb-a3d0-06b4694bee2a&pt=campaign&t=1621216858&s=1de544c0346766be97c18d3f29b12d90d26c4497650273c55490c1a54fb6ba3a">What-The-Hell effect
+              <svg class="inline w-3 h-3 fill-current text-purple-400 flex-shrink-0 ml-2" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 5H0v2h6v4l6-5-6-5z" />
+                      </svg></a>
+            </li> -->
           </ol>
             <!-- <div></div> -->
           </div>
