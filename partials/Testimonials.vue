@@ -10,7 +10,7 @@
         </div>
 
         <!-- Testimonials -->
-        <div class="max-w-sm mx-auto grid gap-8 lg:grid-cols-4 lg:gap-6 items-start lg:max-w-none">
+        <div class="max-w-sm mx-auto grid gap-8 lg:grid-cols-5 lg:gap-6 items-start lg:max-w-none">
 
           <!-- 1st testimonial -->
           <div class="flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up">
@@ -89,7 +89,7 @@
               </div>
             </div>
             <blockquote class="text-md text-gray-400 flex-grow">
-              Andrew is an excellent, productive member of the PubMed development team. He asks good questions that help to clarify acceptance criteria for development work and ensure that we are delivering the best solution possible. He is our <b class="text-gray-300">go-to person for design and mockups</b>; he does a great job of researching current best practices and bringing that information back to the team, as well as providing options for how it can translate to the PubMed site to <b class="text-gray-300">help us solve user problems and provide a great experience</b>.  He now also often facilitates our sprint retrospectives. He is easy to work with thanks to his <b class="text-gray-300">positive attitude and communication skills</b> and I am happy to have him on our team!
+              Andrew is an excellent, productive member of the team. He asks good questions that help to clarify acceptance criteria and ensure that we are delivering the best solution possible. He is our <b class="text-gray-300">go-to person for design and mockups</b>; he does a great job of researching best practices as well as providing options to <b class="text-gray-300">help us solve user problems and provide a great experience</b>. He is easy to work with thanks to his <b class="text-gray-300">positive attitude and communication skills</b> and I am happy to have him on our team!
               
    </blockquote>
             <div class="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
